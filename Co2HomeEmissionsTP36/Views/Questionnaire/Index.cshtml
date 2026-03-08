@@ -1,0 +1,109 @@
+@{
+    ViewData["Title"] = "Questionnaire";
+}
+
+<div>
+    <div class="banner" style="height: 150px; margin-bottom: 5%;">
+        <div class="banner-content"> <p>Grants Questionnaire</p> </div>
+    </div>
+</div>
+
+<div class="container">
+
+<div class="questionnaire-form-heading-container">
+    <h4 class="questionnaire-form-heading">Assess which government grants you may be eligible for by completing the below questions</h4>
+</div>
+
+<form class="questionnaire-form" asp-action="Results">
+    <div id="question1" class="question">
+        <br/><div class="form-item-title">What utility bill do you usually pay?</div>
+        <div class="form-item-desc">Choose all that apply</div>
+        <div class="form-item-body">
+            <input class="form-input" type="checkbox" name="utilityBill" id="electricityBill" value="Electricity bill">
+            <div class="form-label-container">
+                <label class="form-input-label" for="electricityBill"></label>
+                <label>Electricity bill</label>
+            </div>
+            <input class="form-input" type="checkbox" name="utilityBill" id="waterBill" value="Water bill">
+            <div class="form-label-container">
+                <label class="form-input-label" for="waterBill"></label>
+                <label>Water bill</label>
+            </div>
+            <input class="form-input" type="checkbox" name="utilityBill" id="gasBill" value="Gas bill">
+            <div class="form-label-container">
+                <label class="form-input-label" for="gasBill"></label>
+                <label>Gas bill</label>
+            </div>
+            <input class="form-input" type="checkbox" name="utilityBill" id="noneOfTheAbove" value="None of the above">
+            <div class="form-label-container">
+                <label class="form-input-label" for="noneOfTheAbove"></label>
+                <label>None of the above</label>
+            </div>
+        </div>
+    </div>
+    <div id="question2" class="question">
+        <br/><div class="form-item-title">Do you own the property where you reside?</div>
+        <div class="form-item-body form-item-radio-body">
+            <input class="form-input" type="radio" id="propertyYes" name="propertyOwnership" value="yes">
+            <div class="form-label-container">
+                <label class="form-input-label" for="propertyYes"></label>
+                <label>Yes</label>
+            </div>
+            <input class="form-input" type="radio" id="propertyNo" name="propertyOwnership" value="no">
+            <div class="form-label-container">
+                <label class="form-input-label" for="propertyNo"></label>
+                <label>No</label>
+            </div>
+        </div>
+    </div>
+    <div id="question3" class="question">
+        <br/><div class="form-item-title">What is your combined household taxable income per year?</div>
+        <div class="form-item-body form-item-radio-body">
+            <input class="form-input" type="radio" id="lessThan" name="householdIncome" value="no">
+            <div class="form-label-container">
+                <label class="form-input-label" for="lessThan"></label>
+                <label>Less than $180,000</label>
+            </div>
+            <input class="form-input" type="radio" id="moreThan" name="householdIncome" value="yes">
+            <div class="form-label-container">
+                <label class="form-input-label" for="moreThan"></label>
+                <label>$180,000 or more</label>
+            </div>
+        </div>
+    </div>
+    <div id="question4" class="question">
+        <br/><div class="form-item-title">Do you have one of the following concession cards?</div>
+        <div class="form-item-desc">Choose all that apply</div>
+        <div class="form-item-body">
+            <input class="form-input" type="checkbox" id="pensionerCard" name="concessionCards" value="Pensioner Concession Card">
+            <div class="form-label-container">
+                <label class="form-input-label" for="pensionerCard"></label>
+                <label>Pensioner Concession Card</label>
+            </div>
+            <input class="form-input" type="checkbox" id="healthCareCard" name="concessionCards" value="Centrelink Health Care Card">
+            <div class="form-label-container">
+                <label class="form-input-label" for="healthCareCard"></label>
+                <label>Health Care Card</label>
+            </div>
+            <input class="form-input" type="checkbox" id="veteransCard" name="concessionCards" value="Any federal or state Veterans card (includes Gold or White card)">
+            <div class="form-label-container">
+                <label class="form-input-label" for="veteransCard"></label>
+                <label>Veterans' Affairs Card</label>
+            </div>
+            <input class="form-input" type="checkbox" id="noneOfTheAboveConcession" name="concessionCards" value="None of the above">
+            <div class="form-label-container">
+                <label class="form-input-label" for="noneOfTheAboveConcession"></label>
+                <label>None of the above</label>
+            </div>
+        </div>
+    </div>
+    <div class="form-buttons">
+        <button id="backButton" type="button" class="btn btn-primary" style="display:none;">Back</button>
+        <button id="nextButton" type="button" class="btn btn-primary" disabled>Next</button>
+        <button id="submitButton" type="submit" class="btn btn-primary" style="display:none;">Submit</button>
+    </div>
+</form>
+
+    <br />
+    <br />
+</div>

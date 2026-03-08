@@ -1,0 +1,149 @@
+@{
+    ViewData["Title"] = "Climate Action Education";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <div class="banner" style="height: 150px; margin-bottom: 5%;">
+        <div class="banner-content"> <p>Climate Action</p> </div>
+    </div>
+</div>
+
+<!-- Body -->
+<div class="container">
+
+    <!-- Title -->
+    <div class="website-text">
+    </div>
+
+    <div class="row" style="justify-content:space-between">
+        <div class="col-md-8" style="align-content: center">
+
+            <!-- Youtube Video -->
+            <div class="video-container">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/xznlCuhqfOI?si=HzE4YoUd8w9Kknr5"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="col-md-4" style="align-content: center">
+
+            <!-- Text explaining climate change -->
+            <div class="website-text" style="padding-top:3%">
+                <p>
+                    Climate change refers to long-term shifts in temperatures and weather patterns.
+                    Such shifts can be natural, due to changes in the sun’s activity or large volcanic eruptions.
+                    But since the 1800s,
+                    <a href="https://www.ipcc.ch/2021/08/09/ar6-wg1-20210809-pr/" target="_blank">human activities have been the main driver of climate change</a>
+                    , primarily due to the burning of fossil fuels like coal, oil and gas.
+                    Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth,
+                    trapping the sun’s heat and raising temperatures.
+                </p>
+                <br />
+            </div>
+        </div>
+    </div>
+
+    <br />
+    
+    <p style="margin-top: 90px;">
+        This graph depicts the steady rise in average yearly temperature in Melbourne 
+        and how it correlates with atmospheric CO2 levels. Remember this graph when 
+        you are questioning why we are trying so hard to reduce CO2 emissions!
+    </p>
+    <div class="" style="display:block;overflow-x:auto;overflow-y:hidden;width:100%;height:555px;">
+        <div id="plotly-graph" style="width: 800px; height: 600px;margin:auto"></div>
+    </div>
+    <p style="margin-bottom: 60px;">
+        To use this graph use the scrubber down below to zoom in on certain date 
+        ranges or use the buttons on top of the graph to view just the last one 
+        or two decades. If you hover over the lines they will tell you the mean 
+        temperature and atmospheric CO2 levels for that year.
+    </p>
+
+    <div class="row" style="justify-content:start; padding-bottom:30px">
+        <!-- An Image as a column -->
+        <div class="col-md-4" style="align-content: center">
+            <img src="https://images.pexels.com/photos/6262285/pexels-photo-6262285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+            alt="image for activity" style="width:100%; height:100%; object-fit:cover" />
+        </div>
+        <div class="col-md-4 climate-change-text">
+            <div class="website-text" style="padding-top:3%">
+                <!-- Fossil Fuel Explanation -->
+                <h4>Fossil fuels</h4>
+                <p>
+                    Fossil fuels are burnable material made from the decomposition of 
+                    carbon-based life such as plants and animals. From these fossil fuels 
+                    we derive coal, gasoline, and natural gas all of which we burn and 
+                    convert to energy. These are known as non-renewable energy as we 
+                    are consuming them far quicker than we can make them. These non-renewables 
+                    produce carbon dioxide and other ‘greenhouse gases’ when burnt. 
+                    These greenhouse gasses act as a blanket over the earth that trap 
+                    in heat and keep our planet warm. While they are essential for life 
+                    on the planet, we have been producing far more greenhouse gases than 
+                    would be naturally occurring and thus have been warming the planet 
+                    quicker than life can adapt.
+                </p>
+            </div>
+            <div class="website-text">
+                <!-- Global Warming Explanation -->
+                <h4>Effects of global warming</h4>
+                <p>
+                    The effect of this warming differs from place to place but generally
+                    we can see the climate changing through melting glaciers, sea level rises,
+                    longer more intense droughts and oceanic warming which
+                    may threaten biodiversity in the sea.
+                </p>
+            </div>
+            <div class="website-text">
+                <!-- Local Information Explanation -->
+                <h4>Local Information</h4>
+                <p>
+                    How has climate change affected life in Victoria? 
+                    As you can see in the graph, the increasing atmospheric 
+                    Co2 levels have driven up the average temperature here in 
+                    Melbourne! Additionally, we have had historically long 
+                    and frequent droughts. Indeed, from 1970 – 1998 we had 
+                    only two years of drought on record. From 1998 – 2024 
+                    we have had 13 years that have been considered drought 
+                    conditions. This and other extreme weather events are 
+                    likely to become more common as the climate continues 
+                    to change.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="" style="display:block;overflow-x:auto;overflow-y:hidden;width:100%;">
+        <div id="solar-installations"></div>
+    </div>
+    <p style="position:relative; bottom:5px;">
+        Here we see the number of residential solar installations in Victoria 
+        by area. Wondering where your area fits in? Use the legend to 
+        manipulate the graph. Double click an area on the legend and it 
+        will isolate that part of Victoria. Then with single clicks you 
+        can compare this are to those of your choosing! To get them all 
+        back simply double click any item on the legend twice.
+    </p>
+    <br />
+</div>
+
+<div class="action-container">
+    <br />
+    <h2 style="color: #4a6f70"><strong>Want to know about Energy-Efficient House Tour?</strong></h2>
+    <br />
+    <h4 style="margin:auto; text-align:center; max-width: 800px; font-size: 24px;">
+        It allows you to virtually explore ways that you can save energy and money 
+        throughout your home. Even small improvements can be meaningful for home 
+        energy savings. 
+    </h4>
+    <br />
+    <br />
+    <div style="display:flex; flex-direction:column; align-items:center;">
+        <a class="action-button btn btn-primary" href="InteractiveHouse" draggable="false">
+            Start your tour now »
+        </a>
+    </div>
+    <br />
+</div>

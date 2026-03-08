@@ -1,0 +1,86 @@
+@{
+    ViewData["Title"] = "Recycling";
+}
+
+@model Dictionary<string, double>
+
+<div>
+    <div class="banner" style="height: 150px; margin-bottom: 5%;">
+        <div class="banner-content"> <p>Recycling Classifier</p> </div>
+    </div>
+</div>
+
+<div class="upload-container-page">
+    <div class="upload-header-container">
+        <h2 class="upload-header-heading">
+            Recycling Classifier
+        </h2>
+        <p>
+            Upload an image of a waste item. Our AI tool 
+            will then categorise the item in your image.
+        </p>
+    </div>
+    <form id="image-uploader" class="image-upload-form" method="post" enctype="multipart/form-data">
+        <input type="file" id="image-upload" class="image-upload" name="imageFile" accept=".jpg, .jpeg, .png">
+        <div class="image-upload-container" onclick="document.getElementById('image-upload').click()">
+            <div class="image-upload-container-left">
+                <svg class="upload-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill="none" d="M0 0h24v24H0V0z"></path>
+                    <path d="M19.35 10.04A7.49 7.49 0 0012 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 000 14c0 3.31 
+                    2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4 0-2.05 
+                    1.53-3.76 3.56-3.97l1.07-.11.5-.95A5.469 5.469 0 0112 6c2.62 0 4.88 1.86 5.39 4.43l.3 1.5 
+                    1.53.11A2.98 2.98 0 0122 15c0 1.65-1.35 3-3 3zM8 13h2.55v3h2.9v-3H16l-4-4z"></path>
+                </svg>
+                <div class="">
+                    <p class="">Click and upload an image here</p>
+                    <p class="">Limit 4MB • JPG, JPEG, PNG</p>
+                </div>
+            </div>
+            <button class="upload-form-browse" type="button" onclick="document.getElementById('image-upload').click()">
+                Browse files
+            </button>
+        </div>
+        <div id="image-name-display"></div>
+        <div class="sample-images-container">
+            <a href="/images/metal.jpg" target="_blank">Sample Metal</a>
+            <a href="/images/carton.jpg" target="_blank">Sample Carton</a>
+            <a href="/images/clothing.jpg" target="_blank">Sample Clothing</a>
+        </div>
+        <div class="upload-form-submit">
+            <button class="upload-form-button btn btn-primary" id="image-upload-button" type="submit">
+                Classify
+            </button>
+        </div>
+        <div class="loading-spinner">
+            <p>Loading...</p>
+        </div>
+    </form>
+</div>
+
+@if(Model != null)
+{
+    var pair = Model.FirstOrDefault();
+
+    <div class="classify-result-container">
+        <img class="uploaded-image" src="data:image/jpeg;base64,@ViewBag.ImageData" alt="Uploaded Image" />
+        <div class="classify-result">
+            <span class="classify-key">@pair.Key</span> 
+            <span class="classify-value">
+                <span>@pair.Value</span>% confident
+            </span>
+        </div>
+    </div>
+    <div class="classify-action-container">
+        <span>
+            For information on how this item can be recycled or disposed of, have a look at our dictionary for recycling items:
+        </span>
+        <a href="/Recycling/Dictionary/#@pair.Key" class="upload-form-button btn btn-primary">
+            Take me there
+        </a>
+        <p style="font-size: 12px">
+            Note: This tool is for <span class="bold">informational purposes only</span>.
+            Recycling policies can differ city by city.
+            Please refer to local guidelines.
+        </p>
+    </div>
+}

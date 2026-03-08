@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Homepage Banner -->
+<div>
+    <div class="banner">
+        <div class="banner-content">
+            <p>SHOWCASING INNOVATIVE</p>
+            <p>AUSTRALIAN APPROACHES TO</p>
+            <p>CARBON EMISSIONS</p>
+            <p>REDUCTION</p>
+            <a asp-controller="Home" asp-action="ClimateAction" class="btn btn-outline-dark-big">Play your part in Climate Action »</a>
+        </div>
+    </div>
+</div>
+
+<!-- Short Message -->
+<div class="website-text" style="margin:auto; max-width:500px;text-align:center;">
+    <br/>
+    <h1>We’re thinking globally, acting locally</h1>
+    <br/>
+</div>
+
+<!-- Feature Cards -->
+<div class="home-feature-bg" id="features">
+    <div class="container">
+
+        <div class="row">
+            <!-- First feature Card -->
+            <div class="col-md-6 feature-card">
+                <img src="https://images.pexels.com/photos/4359064/pexels-photo-4359064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Gov Support" class="img-fluid" />
+                <div class="website-text" style="padding-left:10%; padding-right:5%; padding-top:1.5%;">
+                    <h4>Governmental Support</h4>
+                    <ul>
+                        <li><a asp-area="" asp-controller="Home" asp-action="GovernmentalSupport">Current Funding Opportunities</a></li>
+                        <li><a asp-area="" asp-controller="Questionnaire" asp-action="Index">Self-assessment on the Government's Grants Questionnaire</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Second feature Card -->
+            <div class="col-md-6 feature-card">
+                <img src="https://images.pexels.com/photos/46169/twilight-power-lines-evening-evening-sun-46169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Solar" class="img-fluid" />
+                <div class="website-text" style="padding-left:10%; padding-right:5%; padding-top:1.5%;">
+                    <h4>Solar Energy</h4>
+                    <ul>
+                        <li><a asp-area="" asp-controller="Solar" asp-action="Index">Solar Energy Map</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Third feature Card -->
+            <div class="col-md-6 feature-card">
+                <img src="https://images.pexels.com/photos/923306/pexels-photo-923306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Solar" class="img-fluid" />
+                <div class="website-text" style="padding-left:10%; padding-right:5%; padding-top:1.5%;">
+                    <h4>Efficient Design</h4>
+                    <ul>
+                        <li><a href="/Home/InteractiveHouse">Energy Efficient House Tour</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Fourth feature Card -->
+            <div class="col-md-6 feature-card">
+                <img src="https://images.pexels.com/photos/10467999/pexels-photo-10467999.jpeg" alt="Solar" class="img-fluid" />
+                <div class="website-text" style="padding-left:10%; padding-right:5%; padding-top:1.5%;">
+                    <h4>Home Energy Carbon Footprint</h4>
+                    <ul>
+                        <li><a href="/CarbonCalculator">Carbon Calculator</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

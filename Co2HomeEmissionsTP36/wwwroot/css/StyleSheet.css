@@ -1,0 +1,874 @@
+@font-face {
+    font-family: 'Segoe UI Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Regular'), url('/fonts/Segoe UI.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Segoe UI Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Italic'), url('/fonts/Segoe UI Italic.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Segoe UI Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Bold'), url('/fonts/Segoe UI Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Segoe UI Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI Bold Italic'), url('/fonts/Segoe UI Bold Italic.woff') format('woff');
+}
+
+.navbar {
+    padding-bottom: 0;
+    padding-top: 0;
+    justify-content: center;
+    padding-left: 60px;
+}
+
+.title-link {
+    text-decoration: none; /* Removes underline */
+    color: inherit; /* Inherits text color from parent elements */
+    font-size: 34px;
+    font-weight: 600;
+}
+
+.navbar-header {
+    text-align: center;
+    margin-bottom: 0;
+    background-color: white;
+}
+
+.navbar-brand.title-link {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.navbar-brand.title-link img {
+    width: 32px;
+    height: 32px;
+}
+
+.navbar-brand.title-link span {
+    position: relative;
+    bottom: 3px;
+}
+
+@media (max-width: 926px) {
+    .title-link {
+        font-size: 29px;
+    }
+    .navbar-expand-sm {
+        flex-wrap: wrap;
+      }
+}
+@media (max-width: 576px) {
+    .navbar-expand-sm .navbar-toggler {
+        display: block;
+    }
+    .navbar {
+        padding-left: 0;
+    }
+}
+
+/* Ensure full width for the header */
+header {
+    width: 100%;
+    height: 75px;
+}
+
+header li {
+    list-style-type: none;
+}
+
+footer {
+    position: relative !important;
+    max-height: 60px;
+}
+
+body a:hover {
+    color: #3f7484;
+}
+
+/* Center the title and give it some padding */
+.navbar-brand {
+    text-align: center;
+    width: 100%;
+    padding: 1rem 0;
+}
+
+/* navigation bar tabs centered */
+.navbar-collapse {
+    justify-content: center;
+}
+
+/* Add some padding to the navigation items */
+.nav-item {
+    margin: 0 10px;
+}
+
+/* Ensure the navigation bar is not too wide */
+.container-fluid {
+    max-width: 100%;
+    padding: 0;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.navbar-brand.title-link:hover {
+    color: #333333;
+}
+
+/* Add some styling to the navigation links */
+.nav-link {
+    color: #333;
+    transition: color 0.2s ease-in-out;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.nav-link:hover, .nav-link.active {
+    color: #2e4e42;
+    font-weight: bold;
+}
+
+.nav-sub-menu-container {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    max-width: 200px;
+    min-width: 140px;
+    border-radius: 3px;
+}
+
+.nav-sub-menu {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-top: 10px;
+}
+
+.nav-sub-menu-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.navbar-accordion-icon {
+    display: none;
+}
+
+@media screen and (min-width: 928px) {
+    .navbar-nav {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .nav-sub-menu-container {
+        margin: auto;
+        position: relative;
+    }
+
+    .nav-sub-menu {
+        align-items: center;
+    }
+
+    .nav-sub-menu-item {
+        padding: 0;
+    }
+
+    .nav-sub-menu-title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar-accordion-icon {
+        display: block;
+        background-image: url("/images/arrow-up.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        width: 16px;
+        min-width: 16px;
+        height: 12px;
+        margin-left: 12px;
+        margin-top: 3px;
+        transition: transform 0.3s linear;
+    }
+}
+
+/*banner section*/
+.banner {
+    z-index: 2;
+    background-image: url("https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the background image */
+    height: 500px;
+    width: 100%;
+    position: relative; /* Relative positioning for absolute children elements */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    color: #ffffff; /* Text color on the banner */
+    text-align: center; /* Center text horizontally */
+    padding: 20px;
+    box-sizing: border-box; /* Include padding in the total width */
+}
+
+.banner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(37, 37, 37, 0.5);;
+    z-index: 1;
+}
+
+/*banner text*/
+.banner p {
+    margin: 0;
+    padding: 0;
+    font-palette: light;
+    font-size: 200%;
+    font-weight: 600;
+}
+
+.banner-content {
+    position: relative;
+    z-index: 1;
+}
+
+/*body of page in ladder format*/
+.uv-index-guide-vertical {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+/*body of page in bookshelf format*/
+.uv-index-guide-horizontal {
+    display: flex;
+    flex-direction: row;
+    gap: 1%;
+    margin: 30px auto;
+    box-sizing: border-box;
+}
+
+/*horiontal container, used as a cpntainer within uv-index-guide containers*/
+.stage-row {
+    margin: 0;
+    padding: 15px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: row; /*so that its horizontal*/
+    justify-content: space-evenly;
+    align-items: center; /* This line vertically centers the children */
+    max-width: 100%; /* Prevents the child from exceeding the parent's width */
+    max-height: 100%;
+}
+
+/*vertical container, used as a cpntainer within uv-index-guide containers*/
+.stage-column {
+    margin: 30px 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column; /*so that its vertical*/
+    align-items: center; /* This line vertically centers the children */
+    max-width: 100%; /* Prevents the child from exceeding the parent's width */
+    max-height: 100%;
+}
+
+    /*image within stage-column*/
+    .stage-column img {
+        width: 90%; /*use percentage instead of px to alter to parent container width*/
+        height: 300px;
+        object-fit: cover;
+        border-radius: 5%;
+    }
+
+        /*stage-column image but rounded images only*/
+        .stage-column img.roundedimage {
+            width: 90%; /*use percentage instead of px to alter to parent container width*/
+            height: 300px;
+            border-radius: 30%;
+            padding-bottom: 1%;
+        }
+
+    /*text within stage-column*/
+    .stage-column p {
+        display: flex;
+        width: 100%;
+        word-wrap: break-word;
+        margin-bottom: 0;
+    }
+
+/*a container that allows grid like organization*/
+.image-collage-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 35%;
+    gap: 10px;
+    max-width: 100%; /* Prevents the child from exceeding the parent's width */
+    max-height: 100%;
+}
+
+    /*images in the grid*/
+    .image-collage-wrap img {
+        width: calc(50% - 5px); /* use 50% so that there are 2 images per row */
+        height: auto;
+        object-fit: cover; /* Ensures the image covers the container fully */
+        border-radius: 10px;
+    }
+
+/*container that organizes in a row*/
+.image-collage-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    overflow-x: auto; /* Allows horizontal scrolling for many images */
+}
+
+    /*images in the row*/
+    .image-collage-row img {
+        min-width: 100px; /* Prevents image from being too small */
+        width: 20%;
+        height: 300px; /* Fixed height for the image container */
+        object-fit: cover; /* Ensures the image covers the container fully */
+        margin-right: 1%; /* Space between images */
+        border-radius: 20px;
+    }
+
+/*text component group*/
+.text-section {
+    width: 25%;
+    word-wrap: break-word;
+}
+    /*header of the text component*/
+    .text-section h4 {
+        margin-top: 0;
+        margin-bottom: 10px;
+        word-wrap: break-word;
+    }
+
+/*another text component group*/
+.text-section-full {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    word-wrap: break-word;
+}
+
+    /*another header of the 2nd text component group*/
+    .text-section-full h4 {
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+        color: cadetblue;
+        word-wrap: break-word;
+    }
+
+/*a container that contains only an image*/
+.row-single-image {
+    display: flex;
+    justify-content: flex-end;
+    width: 60%;
+    height: 300px;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+
+    /*image in container*/
+    .row-single-image img {
+        width: 70%; /* Fixed width for the image container */
+        height: auto;
+        object-fit: cover; /* Ensures the image covers the container fully */
+        border-radius: 20px;
+    }
+
+/*headers in website*/
+.portionheader {
+    padding-top: 2%;
+}
+
+/*font size in general*/
+p {
+    font-size: 1rem;
+}
+
+/*image size in general*/
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*default button */
+.btn.btn-outline-dark {
+    color: #ffffff;
+    background-color: #4a6f70;
+    border-color: white;
+    border-radius: 40px;
+    border: 2px solid !important;
+    font-size: 20px;
+}
+    /*default button when hovered*/
+    .btn.btn-outline-dark:hover {
+        color: #303030;
+        background-color: #f1f1f1;
+        border: 2px solid !important;
+        border-color: white !important;
+        font-size: 20px;
+    }
+
+/*big button for the banner*/
+.btn.btn-outline-dark-big {
+    min-width: 200px;
+    margin-top: 5%;
+    font-size: 20px;
+    padding: 10px 40px;
+    color: #ffffff;
+    background-color: #303030; 
+    border-color: white;
+    border-radius: 40px;
+}
+
+    /*big button when hovered*/
+    .btn.btn-outline-dark-big:hover {
+        color: #303030; /* Text color on hover */
+        background-color: #f1f1f1; 
+        border-color: #f1f1f1;
+    }
+
+/*filtering images*/
+.image-filter {
+    filter: grayscale(100%);
+    transition: filter 0.3s ease; /* Smooth transition for the filter effect */
+}
+
+    /*filtering images when hovered*/
+    .image-filter:hover {
+        filter: none; /* Revert to original color on hover */
+    }
+
+/*changes made when width is more than 800px*/
+@media (max-width: 800px) {
+    .main-content {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .image-collage-wrap {
+        width: 80%;
+    }
+
+    .image-collage-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        width: 100%;
+        gap: 10px;
+        max-width: 100%;
+        max-height: 100%;
+        align-items: normal;
+    }
+
+        .image-collage-row img {
+            width: calc(50% - 5px);
+            height: auto;
+            object-fit: cover;
+            margin-right: 0;
+            border-radius: 10px;
+        }
+
+    .stage-column,
+    .stage-row,
+    .text-section,
+    .text-section-full,
+    .uv-index-guide-horizontal,
+    .uv-index-guide-vertical {
+        width: 100%; /* Full width for smaller screens */
+        flex-wrap: wrap;
+        font-size: 100%;
+    }
+
+        .text-section-full p {
+            width: 80%;
+            align-self: center;
+        }
+
+        .stage-column img {
+            width: 80%;
+            height: auto;
+            max-height: 300px;
+            max-width: 100%;
+        }
+
+            .stage-column img.roundedimage {
+                width: 100%;
+                height: auto;
+                max-width: 100%;
+            }
+
+    .graph-image img {
+        max-width: 100%;
+        min-width: 0;
+        min-height: 0;
+    }
+
+    .portionheader {
+        padding-top: 50px;
+    }
+
+    .row-single-image {
+        display: flex;
+        justify-content: center;
+        width: 80%;
+        height: auto;
+        max-height: 300px;
+    }
+
+        .row-single-image img {
+            width: 100%;
+            height: auto;
+            object-fit: cover; /* Ensures the image covers the container fully */
+            border-radius: 20px;
+        }
+}
+
+.overlay-button-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 43px;
+}
+
+.button-link {
+    min-width: 190px;
+    max-width: 300px;
+    padding: 13px 25px 12px 25px;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    background-color: #00826a;
+    color: #fff;
+}
+
+    .button-link:hover {
+        color: #fff;
+    }
+
+/* used for all pages */
+.body-container {
+    width: 100%;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+    z-index: 5;
+    position: relative;
+}
+
+/* used solely for homepage */
+.home-container {
+    max-width: 100%;
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 0;
+    z-index: 4;
+    position: relative;
+}
+
+.home-feature-bg {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 20px 0;
+}
+
+/* Layout mode: horizontal */
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Layout mode: vertical */
+.column-layout {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    height: 100%;
+}
+
+/* Used in Homepage (Index) */
+.feature-card {
+    margin: 15px;
+    box-shadow: 0px 30px 40px 0px rgb(1 11 60 / 10%);
+    padding: 0;
+    width: 47%;
+    max-width: 100%; /* Adjust based on preference */
+    border-radius: 10%;
+    height: 400px;
+    min-height: 100px;
+    max-height: 1000px;
+}
+
+    .feature-card img {
+        width: 100%;
+        height: 65%;
+        object-fit: cover; /*maintain aspect ratio to not stetch image*/
+    }
+
+/* used in GovernmentSupport view */
+.govSupport-card {
+    margin: 15px;
+    box-shadow: 0px 30px 40px 0px rgb(1 11 60 / 10%);
+    padding: 75px;
+    width: 30%;
+    min-width: 330px;
+    max-width: 100%;
+    border-radius: 0;
+    height: auto;
+    min-height: 400px;
+    max-height: 1000px;
+    align-content: center;
+    justify-content: center;
+    border: solid 8px;
+    border-color: #4a6f70;
+    background-color: rgb(90 130 131 / 25%);
+}
+
+.climate-change-text {
+    align-content: center;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+@media (max-width: 768px){
+    .climate-change-text {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1200px){
+    .feature-card {
+        width: 100%;
+    }
+}
+
+/* text type for countdown */
+.timer {
+    font-size: 2.5em;
+    font-weight: 600;
+    color: var(--heading-color);
+}
+
+/* youtube container */
+.video-container {
+    max-width: 100%; /* Adjust this to change the video width */
+    position: relative;
+    padding-bottom: 56.25%; /* Keeps 16:9 aspect ratio (9/16 = 0.5625 or 56.25%) */
+}
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+/* The text template for the website */
+body {
+    font-family: 'Segoe UI Regular', Tahoma, Geneva, Verdana, sans-serif; /* Modern, readable font */
+    line-height: 1.6; /* Spacing between lines */
+    color: #333; /* Dark grey color for text */
+    max-width: 100%; /* Max width to ensure readability */
+    font-size: 17px
+}
+
+body p {
+    font-size: 16px; /* Standard size for paragraph text */
+    margin-bottom: 0; /* Space below paragraphs */
+}
+
+body h1 {
+    font-size: 2.5em; /* Larger size for main headings */
+    margin-top: 0;
+    margin-bottom: 0;
+    color: cadetblue; /* Bootstrap primary color for headings */
+}
+
+body h2 {
+    font-size: 2em; /* Slightly smaller than h1 */
+    margin-top: 0;
+    margin-bottom: 0;
+    color: cadetblue; /* Bootstrap secondary color for sub-headings */
+}
+
+body h3 {
+    font-size: 1.75em; /* Smaller than h2 */
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #17a2b8; /* Bootstrap info color for lower-level headings */
+}
+
+    /* Subtitles */
+body h4 {
+    font-size: 1.5em;
+    color: #4a6f70;
+}
+
+    /* Captions for images or figures */
+body .caption {
+    font-size: 14px;
+    color: #6c757d;
+    text-align: center;
+    margin-top: -5px;
+    margin-bottom: 0;
+}
+
+    /* Bullet points (unordered lists) */
+body ul {
+    padding-left: 20px;
+    list-style-type: disc; /* Standard bullet points */
+}
+
+    /* Numbered lists (ordered lists) */
+body ol {
+    padding-left: 20px;
+    list-style-type: decimal; /* Standard numbering */
+}
+
+    /* Links */
+body a {
+    color: #3f7484; /* Bootstrap primary color */
+    text-decoration: underline;
+}
+
+main {
+    min-height: 81vh;
+}
+
+@media only screen and (max-width: 576px) {
+    .banner p {
+        font-size: 28px;
+    }
+
+    .btn.btn-outline-dark-big {
+        font-size: 14px;
+    }
+
+    .website-text h1 {
+        font-size: 28px;
+        font-weight: 600;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+#modelLoadingScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: none; /* Initially hidden */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    z-index: 1500;
+}
+
+.model-container {
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+#loadingScreen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: flex-end; /* Align button to the right */
+    align-items: center; /* Center button vertically */
+    background: url('https://Lareach.github.io/publicfiles/door-loadingscreen.jpg') center center no-repeat;
+    background-size: cover;
+    z-index: 1000;
+    padding-right: 10%; /* Padding from the right edge */
+}
+
+#enterTourButton {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #303030;
+    border-color: white;
+    border-radius: 40px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+}
+
+    #enterTourButton:hover {
+        background-color: white;
+        color: #303030;
+        border-radius: 40px;
+    }
+
+.model-container, #detailsContainer, #help-container {
+    width: 100%;
+    display: block; /* Default display */
+}
+
+.mobile-message {
+    display: none; /* Initially hide the mobile message */
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f8f9fa; /* light background for better readability */
+}
+
+/* Apply styles for mobile screens */
+@media (max-width: 1000px) {
+    .model-container, #detailsContainer, #help-container {
+        display: none; /* Hide the model and details on mobile */
+    }
+
+    .mobile-message {
+        display: block; /* Show the mobile message */
+    }
+}

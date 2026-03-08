@@ -1,0 +1,5090 @@
+[
+  {
+    "Year": "1971",
+    "Month": "Jan",
+    "Year_Month": "1971-Jan",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "49.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Feb",
+    "Year_Month": "1971-Feb",
+    "Mean_Temp": "26.8",
+    "Rain_in_mm": "70",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Mar",
+    "Year_Month": "1971-Mar",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "27.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Apr",
+    "Year_Month": "1971-Apr",
+    "Mean_Temp": "21.5",
+    "Rain_in_mm": "46.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "May",
+    "Year_Month": "1971-May",
+    "Mean_Temp": "15.9",
+    "Rain_in_mm": "39.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Jun",
+    "Year_Month": "1971-Jun",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "37.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Jul",
+    "Year_Month": "1971-Jul",
+    "Mean_Temp": "13",
+    "Rain_in_mm": "17.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Aug",
+    "Year_Month": "1971-Aug",
+    "Mean_Temp": "13.8",
+    "Rain_in_mm": "25.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Sep",
+    "Year_Month": "1971-Sep",
+    "Mean_Temp": "16.1",
+    "Rain_in_mm": "32.3",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Oct",
+    "Year_Month": "1971-Oct",
+    "Mean_Temp": "18.1",
+    "Rain_in_mm": "50",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Nov",
+    "Year_Month": "1971-Nov",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "145.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1971",
+    "Month": "Dec",
+    "Year_Month": "1971-Dec",
+    "Mean_Temp": "24.4",
+    "Rain_in_mm": "71",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Jan",
+    "Year_Month": "1972-Jan",
+    "Mean_Temp": "25",
+    "Rain_in_mm": "61.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Feb",
+    "Year_Month": "1972-Feb",
+    "Mean_Temp": "26.8",
+    "Rain_in_mm": "131",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Mar",
+    "Year_Month": "1972-Mar",
+    "Mean_Temp": "23.3",
+    "Rain_in_mm": "16",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Apr",
+    "Year_Month": "1972-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "40.9",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "May",
+    "Year_Month": "1972-May",
+    "Mean_Temp": "17.6",
+    "Rain_in_mm": "24.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Jun",
+    "Year_Month": "1972-Jun",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "13.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Jul",
+    "Year_Month": "1972-Jul",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "23.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Aug",
+    "Year_Month": "1972-Aug",
+    "Mean_Temp": "14.9",
+    "Rain_in_mm": "45.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Sep",
+    "Year_Month": "1972-Sep",
+    "Mean_Temp": "19",
+    "Rain_in_mm": "22.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Oct",
+    "Year_Month": "1972-Oct",
+    "Mean_Temp": "19.8",
+    "Rain_in_mm": "37.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Nov",
+    "Year_Month": "1972-Nov",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "51.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1972",
+    "Month": "Dec",
+    "Year_Month": "1972-Dec",
+    "Mean_Temp": "26.5",
+    "Rain_in_mm": "1.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Jan",
+    "Year_Month": "1973-Jan",
+    "Mean_Temp": "27.7",
+    "Rain_in_mm": "38.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Feb",
+    "Year_Month": "1973-Feb",
+    "Mean_Temp": "25.6",
+    "Rain_in_mm": "176",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Mar",
+    "Year_Month": "1973-Mar",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "61.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Apr",
+    "Year_Month": "1973-Apr",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "20",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "May",
+    "Year_Month": "1973-May",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "33.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Jun",
+    "Year_Month": "1973-Jun",
+    "Mean_Temp": "13",
+    "Rain_in_mm": "38.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Jul",
+    "Year_Month": "1973-Jul",
+    "Mean_Temp": "12.5",
+    "Rain_in_mm": "26.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Aug",
+    "Year_Month": "1973-Aug",
+    "Mean_Temp": "13.3",
+    "Rain_in_mm": "69.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Sep",
+    "Year_Month": "1973-Sep",
+    "Mean_Temp": "16.9",
+    "Rain_in_mm": "38.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Oct",
+    "Year_Month": "1973-Oct",
+    "Mean_Temp": "19.7",
+    "Rain_in_mm": "65.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Nov",
+    "Year_Month": "1973-Nov",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "31.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1973",
+    "Month": "Dec",
+    "Year_Month": "1973-Dec",
+    "Mean_Temp": "25.8",
+    "Rain_in_mm": "58.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Jan",
+    "Year_Month": "1974-Jan",
+    "Mean_Temp": "28.2",
+    "Rain_in_mm": "78",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Feb",
+    "Year_Month": "1974-Feb",
+    "Mean_Temp": "25.9",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Mar",
+    "Year_Month": "1974-Mar",
+    "Mean_Temp": "26.3",
+    "Rain_in_mm": "40.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Apr",
+    "Year_Month": "1974-Apr",
+    "Mean_Temp": "18.5",
+    "Rain_in_mm": "126",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "May",
+    "Year_Month": "1974-May",
+    "Mean_Temp": "16.6",
+    "Rain_in_mm": "155.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Jun",
+    "Year_Month": "1974-Jun",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "12.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Jul",
+    "Year_Month": "1974-Jul",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "60.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Aug",
+    "Year_Month": "1974-Aug",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "68.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Sep",
+    "Year_Month": "1974-Sep",
+    "Mean_Temp": "14.9",
+    "Rain_in_mm": "59.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Oct",
+    "Year_Month": "1974-Oct",
+    "Mean_Temp": "17.6",
+    "Rain_in_mm": "87.7",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Nov",
+    "Year_Month": "1974-Nov",
+    "Mean_Temp": "19.6",
+    "Rain_in_mm": "62.9",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1974",
+    "Month": "Dec",
+    "Year_Month": "1974-Dec",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "26.5",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Jan",
+    "Year_Month": "1975-Jan",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "17",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Feb",
+    "Year_Month": "1975-Feb",
+    "Mean_Temp": "27.6",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Mar",
+    "Year_Month": "1975-Mar",
+    "Mean_Temp": "23.1",
+    "Rain_in_mm": "36.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Apr",
+    "Year_Month": "1975-Apr",
+    "Mean_Temp": "19",
+    "Rain_in_mm": "20.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "May",
+    "Year_Month": "1975-May",
+    "Mean_Temp": "17.5",
+    "Rain_in_mm": "44.9",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Jun",
+    "Year_Month": "1975-Jun",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "29.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Jul",
+    "Year_Month": "1975-Jul",
+    "Mean_Temp": "15.1",
+    "Rain_in_mm": "19.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Aug",
+    "Year_Month": "1975-Aug",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "97.1",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Sep",
+    "Year_Month": "1975-Sep",
+    "Mean_Temp": "16.8",
+    "Rain_in_mm": "76.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Oct",
+    "Year_Month": "1975-Oct",
+    "Mean_Temp": "17.9",
+    "Rain_in_mm": "143.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Nov",
+    "Year_Month": "1975-Nov",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "50.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1975",
+    "Month": "Dec",
+    "Year_Month": "1975-Dec",
+    "Mean_Temp": "24.3",
+    "Rain_in_mm": "49.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Jan",
+    "Year_Month": "1976-Jan",
+    "Mean_Temp": "25.7",
+    "Rain_in_mm": "22.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Feb",
+    "Year_Month": "1976-Feb",
+    "Mean_Temp": "27.5",
+    "Rain_in_mm": "29",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Mar",
+    "Year_Month": "1976-Mar",
+    "Mean_Temp": "24.5",
+    "Rain_in_mm": "37.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Apr",
+    "Year_Month": "1976-Apr",
+    "Mean_Temp": "20.4",
+    "Rain_in_mm": "16.3",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "May",
+    "Year_Month": "1976-May",
+    "Mean_Temp": "16.5",
+    "Rain_in_mm": "11.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Jun",
+    "Year_Month": "1976-Jun",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "34.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Jul",
+    "Year_Month": "1976-Jul",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "12.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Aug",
+    "Year_Month": "1976-Aug",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "65.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Sep",
+    "Year_Month": "1976-Sep",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "79.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Oct",
+    "Year_Month": "1976-Oct",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "76.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Nov",
+    "Year_Month": "1976-Nov",
+    "Mean_Temp": "20.5",
+    "Rain_in_mm": "67.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1976",
+    "Month": "Dec",
+    "Year_Month": "1976-Dec",
+    "Mean_Temp": "25.3",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Jan",
+    "Year_Month": "1977-Jan",
+    "Mean_Temp": "26.7",
+    "Rain_in_mm": "56.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Feb",
+    "Year_Month": "1977-Feb",
+    "Mean_Temp": "26.4",
+    "Rain_in_mm": "50.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Mar",
+    "Year_Month": "1977-Mar",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "16.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Apr",
+    "Year_Month": "1977-Apr",
+    "Mean_Temp": "18",
+    "Rain_in_mm": "141.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "May",
+    "Year_Month": "1977-May",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "32.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Jun",
+    "Year_Month": "1977-Jun",
+    "Mean_Temp": "12.4",
+    "Rain_in_mm": "97.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Jul",
+    "Year_Month": "1977-Jul",
+    "Mean_Temp": "11.9",
+    "Rain_in_mm": "38.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Aug",
+    "Year_Month": "1977-Aug",
+    "Mean_Temp": "15.3",
+    "Rain_in_mm": "17",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Sep",
+    "Year_Month": "1977-Sep",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "78.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Oct",
+    "Year_Month": "1977-Oct",
+    "Mean_Temp": "20.8",
+    "Rain_in_mm": "17.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Nov",
+    "Year_Month": "1977-Nov",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "47.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1977",
+    "Month": "Dec",
+    "Year_Month": "1977-Dec",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "9",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Jan",
+    "Year_Month": "1978-Jan",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "53.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Feb",
+    "Year_Month": "1978-Feb",
+    "Mean_Temp": "25.3",
+    "Rain_in_mm": "20",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Mar",
+    "Year_Month": "1978-Mar",
+    "Mean_Temp": "22.8",
+    "Rain_in_mm": "56.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Apr",
+    "Year_Month": "1978-Apr",
+    "Mean_Temp": "19",
+    "Rain_in_mm": "118.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "May",
+    "Year_Month": "1978-May",
+    "Mean_Temp": "17.4",
+    "Rain_in_mm": "84.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Jun",
+    "Year_Month": "1978-Jun",
+    "Mean_Temp": "12.8",
+    "Rain_in_mm": "31",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Jul",
+    "Year_Month": "1978-Jul",
+    "Mean_Temp": "12.2",
+    "Rain_in_mm": "48.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Aug",
+    "Year_Month": "1978-Aug",
+    "Mean_Temp": "13",
+    "Rain_in_mm": "91.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Sep",
+    "Year_Month": "1978-Sep",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "50.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Oct",
+    "Year_Month": "1978-Oct",
+    "Mean_Temp": "19.3",
+    "Rain_in_mm": "46.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Nov",
+    "Year_Month": "1978-Nov",
+    "Mean_Temp": "21.3",
+    "Rain_in_mm": "134.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1978",
+    "Month": "Dec",
+    "Year_Month": "1978-Dec",
+    "Mean_Temp": "22.1",
+    "Rain_in_mm": "85.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Jan",
+    "Year_Month": "1979-Jan",
+    "Mean_Temp": "28.3",
+    "Rain_in_mm": "37",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Feb",
+    "Year_Month": "1979-Feb",
+    "Mean_Temp": "26.6",
+    "Rain_in_mm": "35.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Mar",
+    "Year_Month": "1979-Mar",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "23",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Apr",
+    "Year_Month": "1979-Apr",
+    "Mean_Temp": "18.6",
+    "Rain_in_mm": "39",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "May",
+    "Year_Month": "1979-May",
+    "Mean_Temp": "15.5",
+    "Rain_in_mm": "61.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Jun",
+    "Year_Month": "1979-Jun",
+    "Mean_Temp": "14.5",
+    "Rain_in_mm": "11.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Jul",
+    "Year_Month": "1979-Jul",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "11",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Aug",
+    "Year_Month": "1979-Aug",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "41.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Sep",
+    "Year_Month": "1979-Sep",
+    "Mean_Temp": "15.9",
+    "Rain_in_mm": "50.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Oct",
+    "Year_Month": "1979-Oct",
+    "Mean_Temp": "18.9",
+    "Rain_in_mm": "68.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Nov",
+    "Year_Month": "1979-Nov",
+    "Mean_Temp": "21.7",
+    "Rain_in_mm": "25.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1979",
+    "Month": "Dec",
+    "Year_Month": "1979-Dec",
+    "Mean_Temp": "26.4",
+    "Rain_in_mm": "15.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Jan",
+    "Year_Month": "1980-Jan",
+    "Mean_Temp": "24.4",
+    "Rain_in_mm": "42.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Feb",
+    "Year_Month": "1980-Feb",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "12.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Mar",
+    "Year_Month": "1980-Mar",
+    "Mean_Temp": "23.6",
+    "Rain_in_mm": "22",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Apr",
+    "Year_Month": "1980-Apr",
+    "Mean_Temp": "21.8",
+    "Rain_in_mm": "41.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "May",
+    "Year_Month": "1980-May",
+    "Mean_Temp": "17.5",
+    "Rain_in_mm": "42.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Jun",
+    "Year_Month": "1980-Jun",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "41.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Jul",
+    "Year_Month": "1980-Jul",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "23.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Aug",
+    "Year_Month": "1980-Aug",
+    "Mean_Temp": "15.3",
+    "Rain_in_mm": "32.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Sep",
+    "Year_Month": "1980-Sep",
+    "Mean_Temp": "18.4",
+    "Rain_in_mm": "21.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Oct",
+    "Year_Month": "1980-Oct",
+    "Mean_Temp": "20",
+    "Rain_in_mm": "91.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Nov",
+    "Year_Month": "1980-Nov",
+    "Mean_Temp": "22.9",
+    "Rain_in_mm": "26.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1980",
+    "Month": "Dec",
+    "Year_Month": "1980-Dec",
+    "Mean_Temp": "26.7",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Jan",
+    "Year_Month": "1981-Jan",
+    "Mean_Temp": "29.6",
+    "Rain_in_mm": "44.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Feb",
+    "Year_Month": "1981-Feb",
+    "Mean_Temp": "28.1",
+    "Rain_in_mm": "24.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Mar",
+    "Year_Month": "1981-Mar",
+    "Mean_Temp": "23.3",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Apr",
+    "Year_Month": "1981-Apr",
+    "Mean_Temp": "22.3",
+    "Rain_in_mm": "4.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "May",
+    "Year_Month": "1981-May",
+    "Mean_Temp": "16.4",
+    "Rain_in_mm": "92.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Jun",
+    "Year_Month": "1981-Jun",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "46.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Jul",
+    "Year_Month": "1981-Jul",
+    "Mean_Temp": "12.5",
+    "Rain_in_mm": "61",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Aug",
+    "Year_Month": "1981-Aug",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "77.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Sep",
+    "Year_Month": "1981-Sep",
+    "Mean_Temp": "17.8",
+    "Rain_in_mm": "10.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Oct",
+    "Year_Month": "1981-Oct",
+    "Mean_Temp": "19.6",
+    "Rain_in_mm": "53.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Nov",
+    "Year_Month": "1981-Nov",
+    "Mean_Temp": "21.4",
+    "Rain_in_mm": "48.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1981",
+    "Month": "Dec",
+    "Year_Month": "1981-Dec",
+    "Mean_Temp": "24.1",
+    "Rain_in_mm": "24.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Jan",
+    "Year_Month": "1982-Jan",
+    "Mean_Temp": "28.2",
+    "Rain_in_mm": "49.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Feb",
+    "Year_Month": "1982-Feb",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "6.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Mar",
+    "Year_Month": "1982-Mar",
+    "Mean_Temp": "25.1",
+    "Rain_in_mm": "40",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Apr",
+    "Year_Month": "1982-Apr",
+    "Mean_Temp": "21.1",
+    "Rain_in_mm": "14.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "May",
+    "Year_Month": "1982-May",
+    "Mean_Temp": "16.7",
+    "Rain_in_mm": "23.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Jun",
+    "Year_Month": "1982-Jun",
+    "Mean_Temp": "12.8",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Jul",
+    "Year_Month": "1982-Jul",
+    "Mean_Temp": "12.5",
+    "Rain_in_mm": "9.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Aug",
+    "Year_Month": "1982-Aug",
+    "Mean_Temp": "17.4",
+    "Rain_in_mm": "24.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Sep",
+    "Year_Month": "1982-Sep",
+    "Mean_Temp": "16.6",
+    "Rain_in_mm": "32.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Oct",
+    "Year_Month": "1982-Oct",
+    "Mean_Temp": "19.5",
+    "Rain_in_mm": "30.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Nov",
+    "Year_Month": "1982-Nov",
+    "Mean_Temp": "26.2",
+    "Rain_in_mm": "58.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1982",
+    "Month": "Dec",
+    "Year_Month": "1982-Dec",
+    "Mean_Temp": "24",
+    "Rain_in_mm": "60",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Jan",
+    "Year_Month": "1983-Jan",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "41.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Feb",
+    "Year_Month": "1983-Feb",
+    "Mean_Temp": "29.5",
+    "Rain_in_mm": "8.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Mar",
+    "Year_Month": "1983-Mar",
+    "Mean_Temp": "24.4",
+    "Rain_in_mm": "38.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Apr",
+    "Year_Month": "1983-Apr",
+    "Mean_Temp": "17.8",
+    "Rain_in_mm": "41.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "May",
+    "Year_Month": "1983-May",
+    "Mean_Temp": "15.9",
+    "Rain_in_mm": "52",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Jun",
+    "Year_Month": "1983-Jun",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "35.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Jul",
+    "Year_Month": "1983-Jul",
+    "Mean_Temp": "12",
+    "Rain_in_mm": "60.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Aug",
+    "Year_Month": "1983-Aug",
+    "Mean_Temp": "14.4",
+    "Rain_in_mm": "64.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Sep",
+    "Year_Month": "1983-Sep",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "66",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Oct",
+    "Year_Month": "1983-Oct",
+    "Mean_Temp": "17.5",
+    "Rain_in_mm": "123.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Nov",
+    "Year_Month": "1983-Nov",
+    "Mean_Temp": "20.7",
+    "Rain_in_mm": "67.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1983",
+    "Month": "Dec",
+    "Year_Month": "1983-Dec",
+    "Mean_Temp": "24.3",
+    "Rain_in_mm": "22.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Jan",
+    "Year_Month": "1984-Jan",
+    "Mean_Temp": "24",
+    "Rain_in_mm": "51.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Feb",
+    "Year_Month": "1984-Feb",
+    "Mean_Temp": "26.5",
+    "Rain_in_mm": "17.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Mar",
+    "Year_Month": "1984-Mar",
+    "Mean_Temp": "22.4",
+    "Rain_in_mm": "41.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Apr",
+    "Year_Month": "1984-Apr",
+    "Mean_Temp": "19.6",
+    "Rain_in_mm": "49.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "May",
+    "Year_Month": "1984-May",
+    "Mean_Temp": "17.4",
+    "Rain_in_mm": "11.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Jun",
+    "Year_Month": "1984-Jun",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "19",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Jul",
+    "Year_Month": "1984-Jul",
+    "Mean_Temp": "12.1",
+    "Rain_in_mm": "44.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Aug",
+    "Year_Month": "1984-Aug",
+    "Mean_Temp": "14.6",
+    "Rain_in_mm": "42.9",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Sep",
+    "Year_Month": "1984-Sep",
+    "Mean_Temp": "14.6",
+    "Rain_in_mm": "76.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Oct",
+    "Year_Month": "1984-Oct",
+    "Mean_Temp": "19.3",
+    "Rain_in_mm": "25",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Nov",
+    "Year_Month": "1984-Nov",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "43.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1984",
+    "Month": "Dec",
+    "Year_Month": "1984-Dec",
+    "Mean_Temp": "23.5",
+    "Rain_in_mm": "21",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Jan",
+    "Year_Month": "1985-Jan",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "17.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Feb",
+    "Year_Month": "1985-Feb",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "5.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Mar",
+    "Year_Month": "1985-Mar",
+    "Mean_Temp": "26.1",
+    "Rain_in_mm": "57.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Apr",
+    "Year_Month": "1985-Apr",
+    "Mean_Temp": "21.6",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "May",
+    "Year_Month": "1985-May",
+    "Mean_Temp": "17.2",
+    "Rain_in_mm": "51.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Jun",
+    "Year_Month": "1985-Jun",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "53.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Jul",
+    "Year_Month": "1985-Jul",
+    "Mean_Temp": "12.4",
+    "Rain_in_mm": "35.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Aug",
+    "Year_Month": "1985-Aug",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "60",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Sep",
+    "Year_Month": "1985-Sep",
+    "Mean_Temp": "15.1",
+    "Rain_in_mm": "48.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Oct",
+    "Year_Month": "1985-Oct",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "44.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Nov",
+    "Year_Month": "1985-Nov",
+    "Mean_Temp": "20.8",
+    "Rain_in_mm": "101.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1985",
+    "Month": "Dec",
+    "Year_Month": "1985-Dec",
+    "Mean_Temp": "22.8",
+    "Rain_in_mm": "130.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Jan",
+    "Year_Month": "1986-Jan",
+    "Mean_Temp": "22.9",
+    "Rain_in_mm": "14.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Feb",
+    "Year_Month": "1986-Feb",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "10.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Mar",
+    "Year_Month": "1986-Mar",
+    "Mean_Temp": "25.7",
+    "Rain_in_mm": "9.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Apr",
+    "Year_Month": "1986-Apr",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "May",
+    "Year_Month": "1986-May",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "47.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Jun",
+    "Year_Month": "1986-Jun",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "18.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Jul",
+    "Year_Month": "1986-Jul",
+    "Mean_Temp": "12.2",
+    "Rain_in_mm": "53.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Aug",
+    "Year_Month": "1986-Aug",
+    "Mean_Temp": "14.2",
+    "Rain_in_mm": "41.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Sep",
+    "Year_Month": "1986-Sep",
+    "Mean_Temp": "15.4",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Oct",
+    "Year_Month": "1986-Oct",
+    "Mean_Temp": "17.3",
+    "Rain_in_mm": "51.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Nov",
+    "Year_Month": "1986-Nov",
+    "Mean_Temp": "20.8",
+    "Rain_in_mm": "37.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1986",
+    "Month": "Dec",
+    "Year_Month": "1986-Dec",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "56.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Jan",
+    "Year_Month": "1987-Jan",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "89.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Feb",
+    "Year_Month": "1987-Feb",
+    "Mean_Temp": "26.3",
+    "Rain_in_mm": "48.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Mar",
+    "Year_Month": "1987-Mar",
+    "Mean_Temp": "21.1",
+    "Rain_in_mm": "36.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Apr",
+    "Year_Month": "1987-Apr",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "19.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "May",
+    "Year_Month": "1987-May",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "51.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Jun",
+    "Year_Month": "1987-Jun",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "58.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Jul",
+    "Year_Month": "1987-Jul",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "94.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Aug",
+    "Year_Month": "1987-Aug",
+    "Mean_Temp": "14",
+    "Rain_in_mm": "16.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Sep",
+    "Year_Month": "1987-Sep",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "28.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Oct",
+    "Year_Month": "1987-Oct",
+    "Mean_Temp": "18.5",
+    "Rain_in_mm": "34.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Nov",
+    "Year_Month": "1987-Nov",
+    "Mean_Temp": "22.3",
+    "Rain_in_mm": "54.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1987",
+    "Month": "Dec",
+    "Year_Month": "1987-Dec",
+    "Mean_Temp": "22.6",
+    "Rain_in_mm": "93.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Jan",
+    "Year_Month": "1988-Jan",
+    "Mean_Temp": "28.2",
+    "Rain_in_mm": "55.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Feb",
+    "Year_Month": "1988-Feb",
+    "Mean_Temp": "25",
+    "Rain_in_mm": "7.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Mar",
+    "Year_Month": "1988-Mar",
+    "Mean_Temp": "25.3",
+    "Rain_in_mm": "27",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Apr",
+    "Year_Month": "1988-Apr",
+    "Mean_Temp": "21.7",
+    "Rain_in_mm": "13.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "May",
+    "Year_Month": "1988-May",
+    "Mean_Temp": "17.6",
+    "Rain_in_mm": "56.6",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Jun",
+    "Year_Month": "1988-Jun",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "43",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Jul",
+    "Year_Month": "1988-Jul",
+    "Mean_Temp": "13.8",
+    "Rain_in_mm": "41.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Aug",
+    "Year_Month": "1988-Aug",
+    "Mean_Temp": "14.4",
+    "Rain_in_mm": "40.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Sep",
+    "Year_Month": "1988-Sep",
+    "Mean_Temp": "17.4",
+    "Rain_in_mm": "33",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Oct",
+    "Year_Month": "1988-Oct",
+    "Mean_Temp": "20.4",
+    "Rain_in_mm": "22.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Nov",
+    "Year_Month": "1988-Nov",
+    "Mean_Temp": "21.5",
+    "Rain_in_mm": "158",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1988",
+    "Month": "Dec",
+    "Year_Month": "1988-Dec",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "65",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Jan",
+    "Year_Month": "1989-Jan",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "53.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Feb",
+    "Year_Month": "1989-Feb",
+    "Mean_Temp": "26.8",
+    "Rain_in_mm": "16",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Mar",
+    "Year_Month": "1989-Mar",
+    "Mean_Temp": "24.4",
+    "Rain_in_mm": "85.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Apr",
+    "Year_Month": "1989-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "74.4",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "May",
+    "Year_Month": "1989-May",
+    "Mean_Temp": "16.6",
+    "Rain_in_mm": "45.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Jun",
+    "Year_Month": "1989-Jun",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "83",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Jul",
+    "Year_Month": "1989-Jul",
+    "Mean_Temp": "12.3",
+    "Rain_in_mm": "44",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Aug",
+    "Year_Month": "1989-Aug",
+    "Mean_Temp": "12.8",
+    "Rain_in_mm": "56",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Sep",
+    "Year_Month": "1989-Sep",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "28.2",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Oct",
+    "Year_Month": "1989-Oct",
+    "Mean_Temp": "18.3",
+    "Rain_in_mm": "72",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Nov",
+    "Year_Month": "1989-Nov",
+    "Mean_Temp": "21.7",
+    "Rain_in_mm": "22.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1989",
+    "Month": "Dec",
+    "Year_Month": "1989-Dec",
+    "Mean_Temp": "25.2",
+    "Rain_in_mm": "16.8",
+    "Solar_Energy_in_Mj/m^2": ""
+  },
+  {
+    "Year": "1990",
+    "Month": "Jan",
+    "Year_Month": "1990-Jan",
+    "Mean_Temp": "26.6",
+    "Rain_in_mm": "4.4",
+    "Solar_Energy_in_Mj/m^2": "26"
+  },
+  {
+    "Year": "1990",
+    "Month": "Feb",
+    "Year_Month": "1990-Feb",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "119.4",
+    "Solar_Energy_in_Mj/m^2": "20.6"
+  },
+  {
+    "Year": "1990",
+    "Month": "Mar",
+    "Year_Month": "1990-Mar",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "29.6",
+    "Solar_Energy_in_Mj/m^2": "18.8"
+  },
+  {
+    "Year": "1990",
+    "Month": "Apr",
+    "Year_Month": "1990-Apr",
+    "Mean_Temp": "20",
+    "Rain_in_mm": "80.6",
+    "Solar_Energy_in_Mj/m^2": "9"
+  },
+  {
+    "Year": "1990",
+    "Month": "May",
+    "Year_Month": "1990-May",
+    "Mean_Temp": "16.8",
+    "Rain_in_mm": "9.4",
+    "Solar_Energy_in_Mj/m^2": "8.6"
+  },
+  {
+    "Year": "1990",
+    "Month": "Jun",
+    "Year_Month": "1990-Jun",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "38.8",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "1990",
+    "Month": "Jul",
+    "Year_Month": "1990-Jul",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "68.5",
+    "Solar_Energy_in_Mj/m^2": "6.8"
+  },
+  {
+    "Year": "1990",
+    "Month": "Aug",
+    "Year_Month": "1990-Aug",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": "10.1"
+  },
+  {
+    "Year": "1990",
+    "Month": "Sep",
+    "Year_Month": "1990-Sep",
+    "Mean_Temp": "16.2",
+    "Rain_in_mm": "41.2",
+    "Solar_Energy_in_Mj/m^2": "13.5"
+  },
+  {
+    "Year": "1990",
+    "Month": "Oct",
+    "Year_Month": "1990-Oct",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "65.2",
+    "Solar_Energy_in_Mj/m^2": "17.4"
+  },
+  {
+    "Year": "1990",
+    "Month": "Nov",
+    "Year_Month": "1990-Nov",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "26",
+    "Solar_Energy_in_Mj/m^2": "22.7"
+  },
+  {
+    "Year": "1990",
+    "Month": "Dec",
+    "Year_Month": "1990-Dec",
+    "Mean_Temp": "26.2",
+    "Rain_in_mm": "36.2",
+    "Solar_Energy_in_Mj/m^2": "22.9"
+  },
+  {
+    "Year": "1991",
+    "Month": "Jan",
+    "Year_Month": "1991-Jan",
+    "Mean_Temp": "25.9",
+    "Rain_in_mm": "101.6",
+    "Solar_Energy_in_Mj/m^2": "23.5"
+  },
+  {
+    "Year": "1991",
+    "Month": "Feb",
+    "Year_Month": "1991-Feb",
+    "Mean_Temp": "25.6",
+    "Rain_in_mm": "1",
+    "Solar_Energy_in_Mj/m^2": "25.1"
+  },
+  {
+    "Year": "1991",
+    "Month": "Mar",
+    "Year_Month": "1991-Mar",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": "18.2"
+  },
+  {
+    "Year": "1991",
+    "Month": "Apr",
+    "Year_Month": "1991-Apr",
+    "Mean_Temp": "19.9",
+    "Rain_in_mm": "45",
+    "Solar_Energy_in_Mj/m^2": "11.5"
+  },
+  {
+    "Year": "1991",
+    "Month": "May",
+    "Year_Month": "1991-May",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "20.4",
+    "Solar_Energy_in_Mj/m^2": "8.6"
+  },
+  {
+    "Year": "1991",
+    "Month": "Jun",
+    "Year_Month": "1991-Jun",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "105.4",
+    "Solar_Energy_in_Mj/m^2": "5.1"
+  },
+  {
+    "Year": "1991",
+    "Month": "Jul",
+    "Year_Month": "1991-Jul",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "48.2",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "1991",
+    "Month": "Aug",
+    "Year_Month": "1991-Aug",
+    "Mean_Temp": "13.8",
+    "Rain_in_mm": "42.6",
+    "Solar_Energy_in_Mj/m^2": "9"
+  },
+  {
+    "Year": "1991",
+    "Month": "Sep",
+    "Year_Month": "1991-Sep",
+    "Mean_Temp": "15.6",
+    "Rain_in_mm": "58.6",
+    "Solar_Energy_in_Mj/m^2": "13"
+  },
+  {
+    "Year": "1991",
+    "Month": "Oct",
+    "Year_Month": "1991-Oct",
+    "Mean_Temp": "20.7",
+    "Rain_in_mm": "26",
+    "Solar_Energy_in_Mj/m^2": "20.2"
+  },
+  {
+    "Year": "1991",
+    "Month": "Nov",
+    "Year_Month": "1991-Nov",
+    "Mean_Temp": "21.8",
+    "Rain_in_mm": "20.4",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "1991",
+    "Month": "Dec",
+    "Year_Month": "1991-Dec",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "75.8",
+    "Solar_Energy_in_Mj/m^2": "22.9"
+  },
+  {
+    "Year": "1992",
+    "Month": "Jan",
+    "Year_Month": "1992-Jan",
+    "Mean_Temp": "21.9",
+    "Rain_in_mm": "34.8",
+    "Solar_Energy_in_Mj/m^2": "22.6"
+  },
+  {
+    "Year": "1992",
+    "Month": "Feb",
+    "Year_Month": "1992-Feb",
+    "Mean_Temp": "24.5",
+    "Rain_in_mm": "20.8",
+    "Solar_Energy_in_Mj/m^2": "21.3"
+  },
+  {
+    "Year": "1992",
+    "Month": "Mar",
+    "Year_Month": "1992-Mar",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "23.6",
+    "Solar_Energy_in_Mj/m^2": "15.1"
+  },
+  {
+    "Year": "1992",
+    "Month": "Apr",
+    "Year_Month": "1992-Apr",
+    "Mean_Temp": "21",
+    "Rain_in_mm": "48.6",
+    "Solar_Energy_in_Mj/m^2": "11.6"
+  },
+  {
+    "Year": "1992",
+    "Month": "May",
+    "Year_Month": "1992-May",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "46.2",
+    "Solar_Energy_in_Mj/m^2": "7.7"
+  },
+  {
+    "Year": "1992",
+    "Month": "Jun",
+    "Year_Month": "1992-Jun",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": "6.4"
+  },
+  {
+    "Year": "1992",
+    "Month": "Jul",
+    "Year_Month": "1992-Jul",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "32.2",
+    "Solar_Energy_in_Mj/m^2": "7.4"
+  },
+  {
+    "Year": "1992",
+    "Month": "Aug",
+    "Year_Month": "1992-Aug",
+    "Mean_Temp": "13.3",
+    "Rain_in_mm": "60.4",
+    "Solar_Energy_in_Mj/m^2": "8.9"
+  },
+  {
+    "Year": "1992",
+    "Month": "Sep",
+    "Year_Month": "1992-Sep",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "119.8",
+    "Solar_Energy_in_Mj/m^2": "10.3"
+  },
+  {
+    "Year": "1992",
+    "Month": "Oct",
+    "Year_Month": "1992-Oct",
+    "Mean_Temp": "18.3",
+    "Rain_in_mm": "90",
+    "Solar_Energy_in_Mj/m^2": "15.3"
+  },
+  {
+    "Year": "1992",
+    "Month": "Nov",
+    "Year_Month": "1992-Nov",
+    "Mean_Temp": "19.5",
+    "Rain_in_mm": "93.2",
+    "Solar_Energy_in_Mj/m^2": "20.3"
+  },
+  {
+    "Year": "1992",
+    "Month": "Dec",
+    "Year_Month": "1992-Dec",
+    "Mean_Temp": "23.5",
+    "Rain_in_mm": "62.4",
+    "Solar_Energy_in_Mj/m^2": "20.8"
+  },
+  {
+    "Year": "1993",
+    "Month": "Jan",
+    "Year_Month": "1993-Jan",
+    "Mean_Temp": "26.6",
+    "Rain_in_mm": "66.6",
+    "Solar_Energy_in_Mj/m^2": "24.8"
+  },
+  {
+    "Year": "1993",
+    "Month": "Feb",
+    "Year_Month": "1993-Feb",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "40",
+    "Solar_Energy_in_Mj/m^2": "19.6"
+  },
+  {
+    "Year": "1993",
+    "Month": "Mar",
+    "Year_Month": "1993-Mar",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "63",
+    "Solar_Energy_in_Mj/m^2": "13.9"
+  },
+  {
+    "Year": "1993",
+    "Month": "Apr",
+    "Year_Month": "1993-Apr",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "16.4",
+    "Solar_Energy_in_Mj/m^2": "13.3"
+  },
+  {
+    "Year": "1993",
+    "Month": "May",
+    "Year_Month": "1993-May",
+    "Mean_Temp": "17.1",
+    "Rain_in_mm": "25.8",
+    "Solar_Energy_in_Mj/m^2": "7.7"
+  },
+  {
+    "Year": "1993",
+    "Month": "Jun",
+    "Year_Month": "1993-Jun",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "29.6",
+    "Solar_Energy_in_Mj/m^2": "6.4"
+  },
+  {
+    "Year": "1993",
+    "Month": "Jul",
+    "Year_Month": "1993-Jul",
+    "Mean_Temp": "13.6",
+    "Rain_in_mm": "45",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "1993",
+    "Month": "Aug",
+    "Year_Month": "1993-Aug",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "35.2",
+    "Solar_Energy_in_Mj/m^2": "8.6"
+  },
+  {
+    "Year": "1993",
+    "Month": "Sep",
+    "Year_Month": "1993-Sep",
+    "Mean_Temp": "16.1",
+    "Rain_in_mm": "127",
+    "Solar_Energy_in_Mj/m^2": "12.2"
+  },
+  {
+    "Year": "1993",
+    "Month": "Oct",
+    "Year_Month": "1993-Oct",
+    "Mean_Temp": "18.3",
+    "Rain_in_mm": "52.8",
+    "Solar_Energy_in_Mj/m^2": "17.7"
+  },
+  {
+    "Year": "1993",
+    "Month": "Nov",
+    "Year_Month": "1993-Nov",
+    "Mean_Temp": "20",
+    "Rain_in_mm": "69.2",
+    "Solar_Energy_in_Mj/m^2": "22.5"
+  },
+  {
+    "Year": "1993",
+    "Month": "Dec",
+    "Year_Month": "1993-Dec",
+    "Mean_Temp": "22.4",
+    "Rain_in_mm": "79.8",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "1994",
+    "Month": "Jan",
+    "Year_Month": "1994-Jan",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "27",
+    "Solar_Energy_in_Mj/m^2": "23.8"
+  },
+  {
+    "Year": "1994",
+    "Month": "Feb",
+    "Year_Month": "1994-Feb",
+    "Mean_Temp": "25.7",
+    "Rain_in_mm": "94.4",
+    "Solar_Energy_in_Mj/m^2": "17.1"
+  },
+  {
+    "Year": "1994",
+    "Month": "Mar",
+    "Year_Month": "1994-Mar",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "26.2",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "1994",
+    "Month": "Apr",
+    "Year_Month": "1994-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "37.8",
+    "Solar_Energy_in_Mj/m^2": "10.2"
+  },
+  {
+    "Year": "1994",
+    "Month": "May",
+    "Year_Month": "1994-May",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "23",
+    "Solar_Energy_in_Mj/m^2": "6.6"
+  },
+  {
+    "Year": "1994",
+    "Month": "Jun",
+    "Year_Month": "1994-Jun",
+    "Mean_Temp": "14",
+    "Rain_in_mm": "46",
+    "Solar_Energy_in_Mj/m^2": "5.8"
+  },
+  {
+    "Year": "1994",
+    "Month": "Jul",
+    "Year_Month": "1994-Jul",
+    "Mean_Temp": "14.6",
+    "Rain_in_mm": "7",
+    "Solar_Energy_in_Mj/m^2": "8.5"
+  },
+  {
+    "Year": "1994",
+    "Month": "Aug",
+    "Year_Month": "1994-Aug",
+    "Mean_Temp": "14",
+    "Rain_in_mm": "22.8",
+    "Solar_Energy_in_Mj/m^2": "13.4"
+  },
+  {
+    "Year": "1994",
+    "Month": "Sep",
+    "Year_Month": "1994-Sep",
+    "Mean_Temp": "15.4",
+    "Rain_in_mm": "31.8",
+    "Solar_Energy_in_Mj/m^2": "11.6"
+  },
+  {
+    "Year": "1994",
+    "Month": "Oct",
+    "Year_Month": "1994-Oct",
+    "Mean_Temp": "19.7",
+    "Rain_in_mm": "29",
+    "Solar_Energy_in_Mj/m^2": "16.5"
+  },
+  {
+    "Year": "1994",
+    "Month": "Nov",
+    "Year_Month": "1994-Nov",
+    "Mean_Temp": "21.6",
+    "Rain_in_mm": "22.4",
+    "Solar_Energy_in_Mj/m^2": "19.2"
+  },
+  {
+    "Year": "1994",
+    "Month": "Dec",
+    "Year_Month": "1994-Dec",
+    "Mean_Temp": "27.3",
+    "Rain_in_mm": "15.4",
+    "Solar_Energy_in_Mj/m^2": "26.6"
+  },
+  {
+    "Year": "1995",
+    "Month": "Jan",
+    "Year_Month": "1995-Jan",
+    "Mean_Temp": "26.2",
+    "Rain_in_mm": "90",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "1995",
+    "Month": "Feb",
+    "Year_Month": "1995-Feb",
+    "Mean_Temp": "26.1",
+    "Rain_in_mm": "25.8",
+    "Solar_Energy_in_Mj/m^2": "20.6"
+  },
+  {
+    "Year": "1995",
+    "Month": "Mar",
+    "Year_Month": "1995-Mar",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "50.4",
+    "Solar_Energy_in_Mj/m^2": "17.3"
+  },
+  {
+    "Year": "1995",
+    "Month": "Apr",
+    "Year_Month": "1995-Apr",
+    "Mean_Temp": "17.3",
+    "Rain_in_mm": "74.2",
+    "Solar_Energy_in_Mj/m^2": "10.7"
+  },
+  {
+    "Year": "1995",
+    "Month": "May",
+    "Year_Month": "1995-May",
+    "Mean_Temp": "15.4",
+    "Rain_in_mm": "61",
+    "Solar_Energy_in_Mj/m^2": "7"
+  },
+  {
+    "Year": "1995",
+    "Month": "Jun",
+    "Year_Month": "1995-Jun",
+    "Mean_Temp": "12.8",
+    "Rain_in_mm": "41.8",
+    "Solar_Energy_in_Mj/m^2": "5.4"
+  },
+  {
+    "Year": "1995",
+    "Month": "Jul",
+    "Year_Month": "1995-Jul",
+    "Mean_Temp": "11.7",
+    "Rain_in_mm": "39.4",
+    "Solar_Energy_in_Mj/m^2": "5.3"
+  },
+  {
+    "Year": "1995",
+    "Month": "Aug",
+    "Year_Month": "1995-Aug",
+    "Mean_Temp": "15.5",
+    "Rain_in_mm": "39.4",
+    "Solar_Energy_in_Mj/m^2": "11.6"
+  },
+  {
+    "Year": "1995",
+    "Month": "Sep",
+    "Year_Month": "1995-Sep",
+    "Mean_Temp": "15.5",
+    "Rain_in_mm": "37.8",
+    "Solar_Energy_in_Mj/m^2": "14"
+  },
+  {
+    "Year": "1995",
+    "Month": "Oct",
+    "Year_Month": "1995-Oct",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "97.6",
+    "Solar_Energy_in_Mj/m^2": "16.6"
+  },
+  {
+    "Year": "1995",
+    "Month": "Nov",
+    "Year_Month": "1995-Nov",
+    "Mean_Temp": "20.8",
+    "Rain_in_mm": "90.8",
+    "Solar_Energy_in_Mj/m^2": "19.8"
+  },
+  {
+    "Year": "1995",
+    "Month": "Dec",
+    "Year_Month": "1995-Dec",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "32.8",
+    "Solar_Energy_in_Mj/m^2": "22.2"
+  },
+  {
+    "Year": "1996",
+    "Month": "Jan",
+    "Year_Month": "1996-Jan",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "71",
+    "Solar_Energy_in_Mj/m^2": "23.5"
+  },
+  {
+    "Year": "1996",
+    "Month": "Feb",
+    "Year_Month": "1996-Feb",
+    "Mean_Temp": "23.5",
+    "Rain_in_mm": "97.2",
+    "Solar_Energy_in_Mj/m^2": "19.8"
+  },
+  {
+    "Year": "1996",
+    "Month": "Mar",
+    "Year_Month": "1996-Mar",
+    "Mean_Temp": "23.1",
+    "Rain_in_mm": "35.6",
+    "Solar_Energy_in_Mj/m^2": "15.6"
+  },
+  {
+    "Year": "1996",
+    "Month": "Apr",
+    "Year_Month": "1996-Apr",
+    "Mean_Temp": "17.6",
+    "Rain_in_mm": "54",
+    "Solar_Energy_in_Mj/m^2": "10.1"
+  },
+  {
+    "Year": "1996",
+    "Month": "May",
+    "Year_Month": "1996-May",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "40.2",
+    "Solar_Energy_in_Mj/m^2": "6.4"
+  },
+  {
+    "Year": "1996",
+    "Month": "Jun",
+    "Year_Month": "1996-Jun",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "55.8",
+    "Solar_Energy_in_Mj/m^2": "6.2"
+  },
+  {
+    "Year": "1996",
+    "Month": "Jul",
+    "Year_Month": "1996-Jul",
+    "Mean_Temp": "12.5",
+    "Rain_in_mm": "57.4",
+    "Solar_Energy_in_Mj/m^2": "6.2"
+  },
+  {
+    "Year": "1996",
+    "Month": "Aug",
+    "Year_Month": "1996-Aug",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "36.2",
+    "Solar_Energy_in_Mj/m^2": "9.2"
+  },
+  {
+    "Year": "1996",
+    "Month": "Sep",
+    "Year_Month": "1996-Sep",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "55.2",
+    "Solar_Energy_in_Mj/m^2": "12.9"
+  },
+  {
+    "Year": "1996",
+    "Month": "Oct",
+    "Year_Month": "1996-Oct",
+    "Mean_Temp": "19.2",
+    "Rain_in_mm": "25.6",
+    "Solar_Energy_in_Mj/m^2": "18.3"
+  },
+  {
+    "Year": "1996",
+    "Month": "Nov",
+    "Year_Month": "1996-Nov",
+    "Mean_Temp": "20.7",
+    "Rain_in_mm": "55.6",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "1996",
+    "Month": "Dec",
+    "Year_Month": "1996-Dec",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "12",
+    "Solar_Energy_in_Mj/m^2": "23.3"
+  },
+  {
+    "Year": "1997",
+    "Month": "Jan",
+    "Year_Month": "1997-Jan",
+    "Mean_Temp": "27.3",
+    "Rain_in_mm": "23",
+    "Solar_Energy_in_Mj/m^2": "25.4"
+  },
+  {
+    "Year": "1997",
+    "Month": "Feb",
+    "Year_Month": "1997-Feb",
+    "Mean_Temp": "30.3",
+    "Rain_in_mm": "4.4",
+    "Solar_Energy_in_Mj/m^2": "22"
+  },
+  {
+    "Year": "1997",
+    "Month": "Mar",
+    "Year_Month": "1997-Mar",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "5.6",
+    "Solar_Energy_in_Mj/m^2": "14.8"
+  },
+  {
+    "Year": "1997",
+    "Month": "Apr",
+    "Year_Month": "1997-Apr",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "10.6",
+    "Solar_Energy_in_Mj/m^2": "11.1"
+  },
+  {
+    "Year": "1997",
+    "Month": "May",
+    "Year_Month": "1997-May",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "38.8",
+    "Solar_Energy_in_Mj/m^2": "5.4"
+  },
+  {
+    "Year": "1997",
+    "Month": "Jun",
+    "Year_Month": "1997-Jun",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "32.2",
+    "Solar_Energy_in_Mj/m^2": "5.7"
+  },
+  {
+    "Year": "1997",
+    "Month": "Jul",
+    "Year_Month": "1997-Jul",
+    "Mean_Temp": "12.6",
+    "Rain_in_mm": "19.2",
+    "Solar_Energy_in_Mj/m^2": "6.6"
+  },
+  {
+    "Year": "1997",
+    "Month": "Aug",
+    "Year_Month": "1997-Aug",
+    "Mean_Temp": "14",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": "10.4"
+  },
+  {
+    "Year": "1997",
+    "Month": "Sep",
+    "Year_Month": "1997-Sep",
+    "Mean_Temp": "16.2",
+    "Rain_in_mm": "55.2",
+    "Solar_Energy_in_Mj/m^2": "14.1"
+  },
+  {
+    "Year": "1997",
+    "Month": "Oct",
+    "Year_Month": "1997-Oct",
+    "Mean_Temp": "20.1",
+    "Rain_in_mm": "30",
+    "Solar_Energy_in_Mj/m^2": "16.6"
+  },
+  {
+    "Year": "1997",
+    "Month": "Nov",
+    "Year_Month": "1997-Nov",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "65.8",
+    "Solar_Energy_in_Mj/m^2": "23.1"
+  },
+  {
+    "Year": "1997",
+    "Month": "Dec",
+    "Year_Month": "1997-Dec",
+    "Mean_Temp": "24.6",
+    "Rain_in_mm": "6",
+    "Solar_Energy_in_Mj/m^2": "25.9"
+  },
+  {
+    "Year": "1998",
+    "Month": "Jan",
+    "Year_Month": "1998-Jan",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "42.8",
+    "Solar_Energy_in_Mj/m^2": "23.3"
+  },
+  {
+    "Year": "1998",
+    "Month": "Feb",
+    "Year_Month": "1998-Feb",
+    "Mean_Temp": "27.6",
+    "Rain_in_mm": "53.8",
+    "Solar_Energy_in_Mj/m^2": "23.6"
+  },
+  {
+    "Year": "1998",
+    "Month": "Mar",
+    "Year_Month": "1998-Mar",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "4.4",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "1998",
+    "Month": "Apr",
+    "Year_Month": "1998-Apr",
+    "Mean_Temp": "18.7",
+    "Rain_in_mm": "33.6",
+    "Solar_Energy_in_Mj/m^2": "10.8"
+  },
+  {
+    "Year": "1998",
+    "Month": "May",
+    "Year_Month": "1998-May",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "33",
+    "Solar_Energy_in_Mj/m^2": "7.5"
+  },
+  {
+    "Year": "1998",
+    "Month": "Jun",
+    "Year_Month": "1998-Jun",
+    "Mean_Temp": "13.3",
+    "Rain_in_mm": "49.2",
+    "Solar_Energy_in_Mj/m^2": "6.4"
+  },
+  {
+    "Year": "1998",
+    "Month": "Jul",
+    "Year_Month": "1998-Jul",
+    "Mean_Temp": "12.4",
+    "Rain_in_mm": "35.6",
+    "Solar_Energy_in_Mj/m^2": "6.9"
+  },
+  {
+    "Year": "1998",
+    "Month": "Aug",
+    "Year_Month": "1998-Aug",
+    "Mean_Temp": "14.8",
+    "Rain_in_mm": "25",
+    "Solar_Energy_in_Mj/m^2": "9.6"
+  },
+  {
+    "Year": "1998",
+    "Month": "Sep",
+    "Year_Month": "1998-Sep",
+    "Mean_Temp": "18",
+    "Rain_in_mm": "23.4",
+    "Solar_Energy_in_Mj/m^2": "12.8"
+  },
+  {
+    "Year": "1998",
+    "Month": "Oct",
+    "Year_Month": "1998-Oct",
+    "Mean_Temp": "18.7",
+    "Rain_in_mm": "47.8",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "1998",
+    "Month": "Nov",
+    "Year_Month": "1998-Nov",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "51.2",
+    "Solar_Energy_in_Mj/m^2": "22.1"
+  },
+  {
+    "Year": "1998",
+    "Month": "Dec",
+    "Year_Month": "1998-Dec",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "62",
+    "Solar_Energy_in_Mj/m^2": "24.7"
+  },
+  {
+    "Year": "1999",
+    "Month": "Jan",
+    "Year_Month": "1999-Jan",
+    "Mean_Temp": "27",
+    "Rain_in_mm": "34.2",
+    "Solar_Energy_in_Mj/m^2": "23.7"
+  },
+  {
+    "Year": "1999",
+    "Month": "Feb",
+    "Year_Month": "1999-Feb",
+    "Mean_Temp": "27.7",
+    "Rain_in_mm": "45.4",
+    "Solar_Energy_in_Mj/m^2": "20"
+  },
+  {
+    "Year": "1999",
+    "Month": "Mar",
+    "Year_Month": "1999-Mar",
+    "Mean_Temp": "23.2",
+    "Rain_in_mm": "69.6",
+    "Solar_Energy_in_Mj/m^2": "15.7"
+  },
+  {
+    "Year": "1999",
+    "Month": "Apr",
+    "Year_Month": "1999-Apr",
+    "Mean_Temp": "19",
+    "Rain_in_mm": "14",
+    "Solar_Energy_in_Mj/m^2": "12.2"
+  },
+  {
+    "Year": "1999",
+    "Month": "May",
+    "Year_Month": "1999-May",
+    "Mean_Temp": "17.9",
+    "Rain_in_mm": "27.8",
+    "Solar_Energy_in_Mj/m^2": "8.5"
+  },
+  {
+    "Year": "1999",
+    "Month": "Jun",
+    "Year_Month": "1999-Jun",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "28.2",
+    "Solar_Energy_in_Mj/m^2": "6.7"
+  },
+  {
+    "Year": "1999",
+    "Month": "Jul",
+    "Year_Month": "1999-Jul",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "12.2",
+    "Solar_Energy_in_Mj/m^2": "6.8"
+  },
+  {
+    "Year": "1999",
+    "Month": "Aug",
+    "Year_Month": "1999-Aug",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "71.8",
+    "Solar_Energy_in_Mj/m^2": "9.1"
+  },
+  {
+    "Year": "1999",
+    "Month": "Sep",
+    "Year_Month": "1999-Sep",
+    "Mean_Temp": "18.4",
+    "Rain_in_mm": "28.6",
+    "Solar_Energy_in_Mj/m^2": "14.3"
+  },
+  {
+    "Year": "1999",
+    "Month": "Oct",
+    "Year_Month": "1999-Oct",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "54.4",
+    "Solar_Energy_in_Mj/m^2": "18.4"
+  },
+  {
+    "Year": "1999",
+    "Month": "Nov",
+    "Year_Month": "1999-Nov",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "29.4",
+    "Solar_Energy_in_Mj/m^2": "22.5"
+  },
+  {
+    "Year": "1999",
+    "Month": "Dec",
+    "Year_Month": "1999-Dec",
+    "Mean_Temp": "24",
+    "Rain_in_mm": "139",
+    "Solar_Energy_in_Mj/m^2": "21.3"
+  },
+  {
+    "Year": "2000",
+    "Month": "Jan",
+    "Year_Month": "2000-Jan",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "41.2",
+    "Solar_Energy_in_Mj/m^2": "22.1"
+  },
+  {
+    "Year": "2000",
+    "Month": "Feb",
+    "Year_Month": "2000-Feb",
+    "Mean_Temp": "29.5",
+    "Rain_in_mm": "34.6",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "2000",
+    "Month": "Mar",
+    "Year_Month": "2000-Mar",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "24.6",
+    "Solar_Energy_in_Mj/m^2": "17.7"
+  },
+  {
+    "Year": "2000",
+    "Month": "Apr",
+    "Year_Month": "2000-Apr",
+    "Mean_Temp": "21.2",
+    "Rain_in_mm": "39.6",
+    "Solar_Energy_in_Mj/m^2": "12"
+  },
+  {
+    "Year": "2000",
+    "Month": "May",
+    "Year_Month": "2000-May",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "78.4",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2000",
+    "Month": "Jun",
+    "Year_Month": "2000-Jun",
+    "Mean_Temp": "13.6",
+    "Rain_in_mm": "27.6",
+    "Solar_Energy_in_Mj/m^2": "5.6"
+  },
+  {
+    "Year": "2000",
+    "Month": "Jul",
+    "Year_Month": "2000-Jul",
+    "Mean_Temp": "13.3",
+    "Rain_in_mm": "35",
+    "Solar_Energy_in_Mj/m^2": "6.9"
+  },
+  {
+    "Year": "2000",
+    "Month": "Aug",
+    "Year_Month": "2000-Aug",
+    "Mean_Temp": "14.8",
+    "Rain_in_mm": "31",
+    "Solar_Energy_in_Mj/m^2": "10.4"
+  },
+  {
+    "Year": "2000",
+    "Month": "Sep",
+    "Year_Month": "2000-Sep",
+    "Mean_Temp": "17.2",
+    "Rain_in_mm": "65.2",
+    "Solar_Energy_in_Mj/m^2": "14"
+  },
+  {
+    "Year": "2000",
+    "Month": "Oct",
+    "Year_Month": "2000-Oct",
+    "Mean_Temp": "17.8",
+    "Rain_in_mm": "124.4",
+    "Solar_Energy_in_Mj/m^2": "16.4"
+  },
+  {
+    "Year": "2000",
+    "Month": "Nov",
+    "Year_Month": "2000-Nov",
+    "Mean_Temp": "22.9",
+    "Rain_in_mm": "38.2",
+    "Solar_Energy_in_Mj/m^2": "20.3"
+  },
+  {
+    "Year": "2000",
+    "Month": "Dec",
+    "Year_Month": "2000-Dec",
+    "Mean_Temp": "26.2",
+    "Rain_in_mm": "18.4",
+    "Solar_Energy_in_Mj/m^2": "27.3"
+  },
+  {
+    "Year": "2001",
+    "Month": "Jan",
+    "Year_Month": "2001-Jan",
+    "Mean_Temp": "29.7",
+    "Rain_in_mm": "7.2",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "2001",
+    "Month": "Feb",
+    "Year_Month": "2001-Feb",
+    "Mean_Temp": "29.2",
+    "Rain_in_mm": "11.4",
+    "Solar_Energy_in_Mj/m^2": "23.1"
+  },
+  {
+    "Year": "2001",
+    "Month": "Mar",
+    "Year_Month": "2001-Mar",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "142.2",
+    "Solar_Energy_in_Mj/m^2": "17"
+  },
+  {
+    "Year": "2001",
+    "Month": "Apr",
+    "Year_Month": "2001-Apr",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "96.8",
+    "Solar_Energy_in_Mj/m^2": "11.3"
+  },
+  {
+    "Year": "2001",
+    "Month": "May",
+    "Year_Month": "2001-May",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "13.4",
+    "Solar_Energy_in_Mj/m^2": "7.8"
+  },
+  {
+    "Year": "2001",
+    "Month": "Jun",
+    "Year_Month": "2001-Jun",
+    "Mean_Temp": "14.9",
+    "Rain_in_mm": "35.6",
+    "Solar_Energy_in_Mj/m^2": "6"
+  },
+  {
+    "Year": "2001",
+    "Month": "Jul",
+    "Year_Month": "2001-Jul",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "10",
+    "Solar_Energy_in_Mj/m^2": "6.2"
+  },
+  {
+    "Year": "2001",
+    "Month": "Aug",
+    "Year_Month": "2001-Aug",
+    "Mean_Temp": "14.6",
+    "Rain_in_mm": "43.4",
+    "Solar_Energy_in_Mj/m^2": "9"
+  },
+  {
+    "Year": "2001",
+    "Month": "Sep",
+    "Year_Month": "2001-Sep",
+    "Mean_Temp": "18.5",
+    "Rain_in_mm": "20.8",
+    "Solar_Energy_in_Mj/m^2": "13.9"
+  },
+  {
+    "Year": "2001",
+    "Month": "Oct",
+    "Year_Month": "2001-Oct",
+    "Mean_Temp": "18.7",
+    "Rain_in_mm": "51",
+    "Solar_Energy_in_Mj/m^2": "18.2"
+  },
+  {
+    "Year": "2001",
+    "Month": "Nov",
+    "Year_Month": "2001-Nov",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "56.6",
+    "Solar_Energy_in_Mj/m^2": "18.9"
+  },
+  {
+    "Year": "2001",
+    "Month": "Dec",
+    "Year_Month": "2001-Dec",
+    "Mean_Temp": "21",
+    "Rain_in_mm": "50",
+    "Solar_Energy_in_Mj/m^2": "23.1"
+  },
+  {
+    "Year": "2002",
+    "Month": "Jan",
+    "Year_Month": "2002-Jan",
+    "Mean_Temp": "25.1",
+    "Rain_in_mm": "33.6",
+    "Solar_Energy_in_Mj/m^2": "22.4"
+  },
+  {
+    "Year": "2002",
+    "Month": "Feb",
+    "Year_Month": "2002-Feb",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "52",
+    "Solar_Energy_in_Mj/m^2": "20.9"
+  },
+  {
+    "Year": "2002",
+    "Month": "Mar",
+    "Year_Month": "2002-Mar",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": "16.9"
+  },
+  {
+    "Year": "2002",
+    "Month": "Apr",
+    "Year_Month": "2002-Apr",
+    "Mean_Temp": "21.2",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": "11"
+  },
+  {
+    "Year": "2002",
+    "Month": "May",
+    "Year_Month": "2002-May",
+    "Mean_Temp": "17.9",
+    "Rain_in_mm": "18.8",
+    "Solar_Energy_in_Mj/m^2": "8.3"
+  },
+  {
+    "Year": "2002",
+    "Month": "Jun",
+    "Year_Month": "2002-Jun",
+    "Mean_Temp": "14.8",
+    "Rain_in_mm": "30.6",
+    "Solar_Energy_in_Mj/m^2": "6.5"
+  },
+  {
+    "Year": "2002",
+    "Month": "Jul",
+    "Year_Month": "2002-Jul",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "31.6",
+    "Solar_Energy_in_Mj/m^2": "8"
+  },
+  {
+    "Year": "2002",
+    "Month": "Aug",
+    "Year_Month": "2002-Aug",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "22.6",
+    "Solar_Energy_in_Mj/m^2": "10.5"
+  },
+  {
+    "Year": "2002",
+    "Month": "Sep",
+    "Year_Month": "2002-Sep",
+    "Mean_Temp": "18",
+    "Rain_in_mm": "28",
+    "Solar_Energy_in_Mj/m^2": "15.5"
+  },
+  {
+    "Year": "2002",
+    "Month": "Oct",
+    "Year_Month": "2002-Oct",
+    "Mean_Temp": "20.5",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": "18.4"
+  },
+  {
+    "Year": "2002",
+    "Month": "Nov",
+    "Year_Month": "2002-Nov",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "18.2",
+    "Solar_Energy_in_Mj/m^2": "22.4"
+  },
+  {
+    "Year": "2002",
+    "Month": "Dec",
+    "Year_Month": "2002-Dec",
+    "Mean_Temp": "25.2",
+    "Rain_in_mm": "10.2",
+    "Solar_Energy_in_Mj/m^2": "23.4"
+  },
+  {
+    "Year": "2003",
+    "Month": "Jan",
+    "Year_Month": "2003-Jan",
+    "Mean_Temp": "27.7",
+    "Rain_in_mm": "7.6",
+    "Solar_Energy_in_Mj/m^2": "26.7"
+  },
+  {
+    "Year": "2003",
+    "Month": "Feb",
+    "Year_Month": "2003-Feb",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "17.8",
+    "Solar_Energy_in_Mj/m^2": "21.6"
+  },
+  {
+    "Year": "2003",
+    "Month": "Mar",
+    "Year_Month": "2003-Mar",
+    "Mean_Temp": "23.7",
+    "Rain_in_mm": "23",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "2003",
+    "Month": "Apr",
+    "Year_Month": "2003-Apr",
+    "Mean_Temp": "20.4",
+    "Rain_in_mm": "57",
+    "Solar_Energy_in_Mj/m^2": "12.8"
+  },
+  {
+    "Year": "2003",
+    "Month": "May",
+    "Year_Month": "2003-May",
+    "Mean_Temp": "18",
+    "Rain_in_mm": "13",
+    "Solar_Energy_in_Mj/m^2": "8.4"
+  },
+  {
+    "Year": "2003",
+    "Month": "Jun",
+    "Year_Month": "2003-Jun",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "36.6",
+    "Solar_Energy_in_Mj/m^2": "6.1"
+  },
+  {
+    "Year": "2003",
+    "Month": "Jul",
+    "Year_Month": "2003-Jul",
+    "Mean_Temp": "13.6",
+    "Rain_in_mm": "61.2",
+    "Solar_Energy_in_Mj/m^2": "8"
+  },
+  {
+    "Year": "2003",
+    "Month": "Aug",
+    "Year_Month": "2003-Aug",
+    "Mean_Temp": "13.7",
+    "Rain_in_mm": "50.6",
+    "Solar_Energy_in_Mj/m^2": "10"
+  },
+  {
+    "Year": "2003",
+    "Month": "Sep",
+    "Year_Month": "2003-Sep",
+    "Mean_Temp": "16.4",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": "14.9"
+  },
+  {
+    "Year": "2003",
+    "Month": "Oct",
+    "Year_Month": "2003-Oct",
+    "Mean_Temp": "16.4",
+    "Rain_in_mm": "69.8",
+    "Solar_Energy_in_Mj/m^2": "16.2"
+  },
+  {
+    "Year": "2003",
+    "Month": "Nov",
+    "Year_Month": "2003-Nov",
+    "Mean_Temp": "22.8",
+    "Rain_in_mm": "26.8",
+    "Solar_Energy_in_Mj/m^2": "23.8"
+  },
+  {
+    "Year": "2003",
+    "Month": "Dec",
+    "Year_Month": "2003-Dec",
+    "Mean_Temp": "27.4",
+    "Rain_in_mm": "30.6",
+    "Solar_Energy_in_Mj/m^2": "24.4"
+  },
+  {
+    "Year": "2004",
+    "Month": "Jan",
+    "Year_Month": "2004-Jan",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "24.4",
+    "Solar_Energy_in_Mj/m^2": "23.8"
+  },
+  {
+    "Year": "2004",
+    "Month": "Feb",
+    "Year_Month": "2004-Feb",
+    "Mean_Temp": "26.4",
+    "Rain_in_mm": "9.8",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "2004",
+    "Month": "Mar",
+    "Year_Month": "2004-Mar",
+    "Mean_Temp": "23.5",
+    "Rain_in_mm": "20.2",
+    "Solar_Energy_in_Mj/m^2": "18.6"
+  },
+  {
+    "Year": "2004",
+    "Month": "Apr",
+    "Year_Month": "2004-Apr",
+    "Mean_Temp": "20.9",
+    "Rain_in_mm": "49",
+    "Solar_Energy_in_Mj/m^2": "12.1"
+  },
+  {
+    "Year": "2004",
+    "Month": "May",
+    "Year_Month": "2004-May",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "18.2",
+    "Solar_Energy_in_Mj/m^2": "8.2"
+  },
+  {
+    "Year": "2004",
+    "Month": "Jun",
+    "Year_Month": "2004-Jun",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "24.2",
+    "Solar_Energy_in_Mj/m^2": "6.6"
+  },
+  {
+    "Year": "2004",
+    "Month": "Jul",
+    "Year_Month": "2004-Jul",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "27.8",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2004",
+    "Month": "Aug",
+    "Year_Month": "2004-Aug",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "69.4",
+    "Solar_Energy_in_Mj/m^2": "10.7"
+  },
+  {
+    "Year": "2004",
+    "Month": "Sep",
+    "Year_Month": "2004-Sep",
+    "Mean_Temp": "15.9",
+    "Rain_in_mm": "47.8",
+    "Solar_Energy_in_Mj/m^2": "12.1"
+  },
+  {
+    "Year": "2004",
+    "Month": "Oct",
+    "Year_Month": "2004-Oct",
+    "Mean_Temp": "20.2",
+    "Rain_in_mm": "45.2",
+    "Solar_Energy_in_Mj/m^2": "19.2"
+  },
+  {
+    "Year": "2004",
+    "Month": "Nov",
+    "Year_Month": "2004-Nov",
+    "Mean_Temp": "21.4",
+    "Rain_in_mm": "113",
+    "Solar_Energy_in_Mj/m^2": "20.7"
+  },
+  {
+    "Year": "2004",
+    "Month": "Dec",
+    "Year_Month": "2004-Dec",
+    "Mean_Temp": "23.9",
+    "Rain_in_mm": "59.2",
+    "Solar_Energy_in_Mj/m^2": "24"
+  },
+  {
+    "Year": "2005",
+    "Month": "Jan",
+    "Year_Month": "2005-Jan",
+    "Mean_Temp": "26.7",
+    "Rain_in_mm": "24",
+    "Solar_Energy_in_Mj/m^2": "24.5"
+  },
+  {
+    "Year": "2005",
+    "Month": "Feb",
+    "Year_Month": "2005-Feb",
+    "Mean_Temp": "23.3",
+    "Rain_in_mm": "200.6",
+    "Solar_Energy_in_Mj/m^2": "19.3"
+  },
+  {
+    "Year": "2005",
+    "Month": "Mar",
+    "Year_Month": "2005-Mar",
+    "Mean_Temp": "23.1",
+    "Rain_in_mm": "7.8",
+    "Solar_Energy_in_Mj/m^2": "18.1"
+  },
+  {
+    "Year": "2005",
+    "Month": "Apr",
+    "Year_Month": "2005-Apr",
+    "Mean_Temp": "23.4",
+    "Rain_in_mm": "26",
+    "Solar_Energy_in_Mj/m^2": "13.4"
+  },
+  {
+    "Year": "2005",
+    "Month": "May",
+    "Year_Month": "2005-May",
+    "Mean_Temp": "17.8",
+    "Rain_in_mm": "8",
+    "Solar_Energy_in_Mj/m^2": "9.4"
+  },
+  {
+    "Year": "2005",
+    "Month": "Jun",
+    "Year_Month": "2005-Jun",
+    "Mean_Temp": "15.4",
+    "Rain_in_mm": "31",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "2005",
+    "Month": "Jul",
+    "Year_Month": "2005-Jul",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "21.8",
+    "Solar_Energy_in_Mj/m^2": "6.5"
+  },
+  {
+    "Year": "2005",
+    "Month": "Aug",
+    "Year_Month": "2005-Aug",
+    "Mean_Temp": "14.9",
+    "Rain_in_mm": "57.6",
+    "Solar_Energy_in_Mj/m^2": "10.4"
+  },
+  {
+    "Year": "2005",
+    "Month": "Sep",
+    "Year_Month": "2005-Sep",
+    "Mean_Temp": "17",
+    "Rain_in_mm": "39.4",
+    "Solar_Energy_in_Mj/m^2": "13.8"
+  },
+  {
+    "Year": "2005",
+    "Month": "Oct",
+    "Year_Month": "2005-Oct",
+    "Mean_Temp": "20.5",
+    "Rain_in_mm": "69",
+    "Solar_Energy_in_Mj/m^2": "19.3"
+  },
+  {
+    "Year": "2005",
+    "Month": "Nov",
+    "Year_Month": "2005-Nov",
+    "Mean_Temp": "23.7",
+    "Rain_in_mm": "64.6",
+    "Solar_Energy_in_Mj/m^2": "22.9"
+  },
+  {
+    "Year": "2005",
+    "Month": "Dec",
+    "Year_Month": "2005-Dec",
+    "Mean_Temp": "27.5",
+    "Rain_in_mm": "48",
+    "Solar_Energy_in_Mj/m^2": "24.5"
+  },
+  {
+    "Year": "2006",
+    "Month": "Jan",
+    "Year_Month": "2006-Jan",
+    "Mean_Temp": "27.9",
+    "Rain_in_mm": "50.6",
+    "Solar_Energy_in_Mj/m^2": "26.1"
+  },
+  {
+    "Year": "2006",
+    "Month": "Feb",
+    "Year_Month": "2006-Feb",
+    "Mean_Temp": "25.2",
+    "Rain_in_mm": "58.8",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "2006",
+    "Month": "Mar",
+    "Year_Month": "2006-Mar",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "13.2",
+    "Solar_Energy_in_Mj/m^2": "19.2"
+  },
+  {
+    "Year": "2006",
+    "Month": "Apr",
+    "Year_Month": "2006-Apr",
+    "Mean_Temp": "18.6",
+    "Rain_in_mm": "43.2",
+    "Solar_Energy_in_Mj/m^2": "11"
+  },
+  {
+    "Year": "2006",
+    "Month": "May",
+    "Year_Month": "2006-May",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "40.4",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2006",
+    "Month": "Jun",
+    "Year_Month": "2006-Jun",
+    "Mean_Temp": "13",
+    "Rain_in_mm": "10.4",
+    "Solar_Energy_in_Mj/m^2": "6"
+  },
+  {
+    "Year": "2006",
+    "Month": "Jul",
+    "Year_Month": "2006-Jul",
+    "Mean_Temp": "13.1",
+    "Rain_in_mm": "39.4",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "2006",
+    "Month": "Aug",
+    "Year_Month": "2006-Aug",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "27.2",
+    "Solar_Energy_in_Mj/m^2": "10.8"
+  },
+  {
+    "Year": "2006",
+    "Month": "Sep",
+    "Year_Month": "2006-Sep",
+    "Mean_Temp": "18.6",
+    "Rain_in_mm": "38.4",
+    "Solar_Energy_in_Mj/m^2": "14.9"
+  },
+  {
+    "Year": "2006",
+    "Month": "Oct",
+    "Year_Month": "2006-Oct",
+    "Mean_Temp": "21.5",
+    "Rain_in_mm": "8.4",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "2006",
+    "Month": "Nov",
+    "Year_Month": "2006-Nov",
+    "Mean_Temp": "22.8",
+    "Rain_in_mm": "39",
+    "Solar_Energy_in_Mj/m^2": "23.6"
+  },
+  {
+    "Year": "2006",
+    "Month": "Dec",
+    "Year_Month": "2006-Dec",
+    "Mean_Temp": "25.2",
+    "Rain_in_mm": "15.8",
+    "Solar_Energy_in_Mj/m^2": "26.6"
+  },
+  {
+    "Year": "2007",
+    "Month": "Jan",
+    "Year_Month": "2007-Jan",
+    "Mean_Temp": "28.3",
+    "Rain_in_mm": "24.2",
+    "Solar_Energy_in_Mj/m^2": "24.4"
+  },
+  {
+    "Year": "2007",
+    "Month": "Feb",
+    "Year_Month": "2007-Feb",
+    "Mean_Temp": "29.6",
+    "Rain_in_mm": "13",
+    "Solar_Energy_in_Mj/m^2": "22.7"
+  },
+  {
+    "Year": "2007",
+    "Month": "Mar",
+    "Year_Month": "2007-Mar",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "39.4",
+    "Solar_Energy_in_Mj/m^2": "17.9"
+  },
+  {
+    "Year": "2007",
+    "Month": "Apr",
+    "Year_Month": "2007-Apr",
+    "Mean_Temp": "22.2",
+    "Rain_in_mm": "29.2",
+    "Solar_Energy_in_Mj/m^2": "12.9"
+  },
+  {
+    "Year": "2007",
+    "Month": "May",
+    "Year_Month": "2007-May",
+    "Mean_Temp": "18.7",
+    "Rain_in_mm": "41",
+    "Solar_Energy_in_Mj/m^2": "8.1"
+  },
+  {
+    "Year": "2007",
+    "Month": "Jun",
+    "Year_Month": "2007-Jun",
+    "Mean_Temp": "12.6",
+    "Rain_in_mm": "45.4",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "2007",
+    "Month": "Jul",
+    "Year_Month": "2007-Jul",
+    "Mean_Temp": "12.5",
+    "Rain_in_mm": "41.2",
+    "Solar_Energy_in_Mj/m^2": "7.1"
+  },
+  {
+    "Year": "2007",
+    "Month": "Aug",
+    "Year_Month": "2007-Aug",
+    "Mean_Temp": "16",
+    "Rain_in_mm": "17.6",
+    "Solar_Energy_in_Mj/m^2": "11.1"
+  },
+  {
+    "Year": "2007",
+    "Month": "Sep",
+    "Year_Month": "2007-Sep",
+    "Mean_Temp": "18",
+    "Rain_in_mm": "8.2",
+    "Solar_Energy_in_Mj/m^2": "14.6"
+  },
+  {
+    "Year": "2007",
+    "Month": "Oct",
+    "Year_Month": "2007-Oct",
+    "Mean_Temp": "21.2",
+    "Rain_in_mm": "5.6",
+    "Solar_Energy_in_Mj/m^2": "19.5"
+  },
+  {
+    "Year": "2007",
+    "Month": "Nov",
+    "Year_Month": "2007-Nov",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "74.6",
+    "Solar_Energy_in_Mj/m^2": "23.3"
+  },
+  {
+    "Year": "2007",
+    "Month": "Dec",
+    "Year_Month": "2007-Dec",
+    "Mean_Temp": "26.3",
+    "Rain_in_mm": "83.2",
+    "Solar_Energy_in_Mj/m^2": "24.4"
+  },
+  {
+    "Year": "2008",
+    "Month": "Jan",
+    "Year_Month": "2008-Jan",
+    "Mean_Temp": "27.7",
+    "Rain_in_mm": "38.8",
+    "Solar_Energy_in_Mj/m^2": "25.8"
+  },
+  {
+    "Year": "2008",
+    "Month": "Feb",
+    "Year_Month": "2008-Feb",
+    "Mean_Temp": "24.1",
+    "Rain_in_mm": "31.2",
+    "Solar_Energy_in_Mj/m^2": "20.9"
+  },
+  {
+    "Year": "2008",
+    "Month": "Mar",
+    "Year_Month": "2008-Mar",
+    "Mean_Temp": "27.1",
+    "Rain_in_mm": "23.2",
+    "Solar_Energy_in_Mj/m^2": "17.8"
+  },
+  {
+    "Year": "2008",
+    "Month": "Apr",
+    "Year_Month": "2008-Apr",
+    "Mean_Temp": "20.5",
+    "Rain_in_mm": "9.8",
+    "Solar_Energy_in_Mj/m^2": "11.9"
+  },
+  {
+    "Year": "2008",
+    "Month": "May",
+    "Year_Month": "2008-May",
+    "Mean_Temp": "16.2",
+    "Rain_in_mm": "36.2",
+    "Solar_Energy_in_Mj/m^2": "7.3"
+  },
+  {
+    "Year": "2008",
+    "Month": "Jun",
+    "Year_Month": "2008-Jun",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "12.6",
+    "Solar_Energy_in_Mj/m^2": "5.6"
+  },
+  {
+    "Year": "2008",
+    "Month": "Jul",
+    "Year_Month": "2008-Jul",
+    "Mean_Temp": "12.9",
+    "Rain_in_mm": "38.2",
+    "Solar_Energy_in_Mj/m^2": "6.8"
+  },
+  {
+    "Year": "2008",
+    "Month": "Aug",
+    "Year_Month": "2008-Aug",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "46",
+    "Solar_Energy_in_Mj/m^2": "9"
+  },
+  {
+    "Year": "2008",
+    "Month": "Sep",
+    "Year_Month": "2008-Sep",
+    "Mean_Temp": "18.4",
+    "Rain_in_mm": "16.8",
+    "Solar_Energy_in_Mj/m^2": "15.5"
+  },
+  {
+    "Year": "2008",
+    "Month": "Oct",
+    "Year_Month": "2008-Oct",
+    "Mean_Temp": "21.7",
+    "Rain_in_mm": "11.4",
+    "Solar_Energy_in_Mj/m^2": "18.4"
+  },
+  {
+    "Year": "2008",
+    "Month": "Nov",
+    "Year_Month": "2008-Nov",
+    "Mean_Temp": "22.8",
+    "Rain_in_mm": "46.8",
+    "Solar_Energy_in_Mj/m^2": "20.6"
+  },
+  {
+    "Year": "2008",
+    "Month": "Dec",
+    "Year_Month": "2008-Dec",
+    "Mean_Temp": "23",
+    "Rain_in_mm": "94.6",
+    "Solar_Energy_in_Mj/m^2": "23.5"
+  },
+  {
+    "Year": "2009",
+    "Month": "Jan",
+    "Year_Month": "2009-Jan",
+    "Mean_Temp": "28.8",
+    "Rain_in_mm": "1.6",
+    "Solar_Energy_in_Mj/m^2": "29.6"
+  },
+  {
+    "Year": "2009",
+    "Month": "Feb",
+    "Year_Month": "2009-Feb",
+    "Mean_Temp": "27.9",
+    "Rain_in_mm": "6",
+    "Solar_Energy_in_Mj/m^2": "22.6"
+  },
+  {
+    "Year": "2009",
+    "Month": "Mar",
+    "Year_Month": "2009-Mar",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "35.8",
+    "Solar_Energy_in_Mj/m^2": "14.7"
+  },
+  {
+    "Year": "2009",
+    "Month": "Apr",
+    "Year_Month": "2009-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "33.4",
+    "Solar_Energy_in_Mj/m^2": "11.4"
+  },
+  {
+    "Year": "2009",
+    "Month": "May",
+    "Year_Month": "2009-May",
+    "Mean_Temp": "17",
+    "Rain_in_mm": "11.2",
+    "Solar_Energy_in_Mj/m^2": "7.5"
+  },
+  {
+    "Year": "2009",
+    "Month": "Jun",
+    "Year_Month": "2009-Jun",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": "5.9"
+  },
+  {
+    "Year": "2009",
+    "Month": "Jul",
+    "Year_Month": "2009-Jul",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "25.2",
+    "Solar_Energy_in_Mj/m^2": "7.3"
+  },
+  {
+    "Year": "2009",
+    "Month": "Aug",
+    "Year_Month": "2009-Aug",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "35.6",
+    "Solar_Energy_in_Mj/m^2": "9.9"
+  },
+  {
+    "Year": "2009",
+    "Month": "Sep",
+    "Year_Month": "2009-Sep",
+    "Mean_Temp": "17.9",
+    "Rain_in_mm": "55",
+    "Solar_Energy_in_Mj/m^2": "13"
+  },
+  {
+    "Year": "2009",
+    "Month": "Oct",
+    "Year_Month": "2009-Oct",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "20.2",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "2009",
+    "Month": "Nov",
+    "Year_Month": "2009-Nov",
+    "Mean_Temp": "26.8",
+    "Rain_in_mm": "117",
+    "Solar_Energy_in_Mj/m^2": "23.3"
+  },
+  {
+    "Year": "2009",
+    "Month": "Dec",
+    "Year_Month": "2009-Dec",
+    "Mean_Temp": "25.1",
+    "Rain_in_mm": "37.4",
+    "Solar_Energy_in_Mj/m^2": "25.9"
+  },
+  {
+    "Year": "2010",
+    "Month": "Jan",
+    "Year_Month": "2010-Jan",
+    "Mean_Temp": "27",
+    "Rain_in_mm": "26.8",
+    "Solar_Energy_in_Mj/m^2": "26.2"
+  },
+  {
+    "Year": "2010",
+    "Month": "Feb",
+    "Year_Month": "2010-Feb",
+    "Mean_Temp": "27.8",
+    "Rain_in_mm": "36.6",
+    "Solar_Energy_in_Mj/m^2": "20.5"
+  },
+  {
+    "Year": "2010",
+    "Month": "Mar",
+    "Year_Month": "2010-Mar",
+    "Mean_Temp": "25",
+    "Rain_in_mm": "88",
+    "Solar_Energy_in_Mj/m^2": "16.2"
+  },
+  {
+    "Year": "2010",
+    "Month": "Apr",
+    "Year_Month": "2010-Apr",
+    "Mean_Temp": "22.1",
+    "Rain_in_mm": "18",
+    "Solar_Energy_in_Mj/m^2": "10.6"
+  },
+  {
+    "Year": "2010",
+    "Month": "May",
+    "Year_Month": "2010-May",
+    "Mean_Temp": "17.3",
+    "Rain_in_mm": "31.4",
+    "Solar_Energy_in_Mj/m^2": "8"
+  },
+  {
+    "Year": "2010",
+    "Month": "Jun",
+    "Year_Month": "2010-Jun",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "47",
+    "Solar_Energy_in_Mj/m^2": "6.2"
+  },
+  {
+    "Year": "2010",
+    "Month": "Jul",
+    "Year_Month": "2010-Jul",
+    "Mean_Temp": "13.3",
+    "Rain_in_mm": "27.4",
+    "Solar_Energy_in_Mj/m^2": "6.3"
+  },
+  {
+    "Year": "2010",
+    "Month": "Aug",
+    "Year_Month": "2010-Aug",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "64.8",
+    "Solar_Energy_in_Mj/m^2": "8.9"
+  },
+  {
+    "Year": "2010",
+    "Month": "Sep",
+    "Year_Month": "2010-Sep",
+    "Mean_Temp": "15.1",
+    "Rain_in_mm": "42",
+    "Solar_Energy_in_Mj/m^2": "11.9"
+  },
+  {
+    "Year": "2010",
+    "Month": "Oct",
+    "Year_Month": "2010-Oct",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "131.2",
+    "Solar_Energy_in_Mj/m^2": "18.3"
+  },
+  {
+    "Year": "2010",
+    "Month": "Nov",
+    "Year_Month": "2010-Nov",
+    "Mean_Temp": "22",
+    "Rain_in_mm": "130",
+    "Solar_Energy_in_Mj/m^2": "20.1"
+  },
+  {
+    "Year": "2010",
+    "Month": "Dec",
+    "Year_Month": "2010-Dec",
+    "Mean_Temp": "24.1",
+    "Rain_in_mm": "84.2",
+    "Solar_Energy_in_Mj/m^2": "22.3"
+  },
+  {
+    "Year": "2011",
+    "Month": "Jan",
+    "Year_Month": "2011-Jan",
+    "Mean_Temp": "26.2",
+    "Rain_in_mm": "97.2",
+    "Solar_Energy_in_Mj/m^2": "21.8"
+  },
+  {
+    "Year": "2011",
+    "Month": "Feb",
+    "Year_Month": "2011-Feb",
+    "Mean_Temp": "24.2",
+    "Rain_in_mm": "87.4",
+    "Solar_Energy_in_Mj/m^2": "18.2"
+  },
+  {
+    "Year": "2011",
+    "Month": "Mar",
+    "Year_Month": "2011-Mar",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "27.4",
+    "Solar_Energy_in_Mj/m^2": "14.8"
+  },
+  {
+    "Year": "2011",
+    "Month": "Apr",
+    "Year_Month": "2011-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "44.4",
+    "Solar_Energy_in_Mj/m^2": "12.5"
+  },
+  {
+    "Year": "2011",
+    "Month": "May",
+    "Year_Month": "2011-May",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "42.8",
+    "Solar_Energy_in_Mj/m^2": "6.6"
+  },
+  {
+    "Year": "2011",
+    "Month": "Jun",
+    "Year_Month": "2011-Jun",
+    "Mean_Temp": "14.6",
+    "Rain_in_mm": "20.2",
+    "Solar_Energy_in_Mj/m^2": "6.8"
+  },
+  {
+    "Year": "2011",
+    "Month": "Jul",
+    "Year_Month": "2011-Jul",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "22.2",
+    "Solar_Energy_in_Mj/m^2": "6.4"
+  },
+  {
+    "Year": "2011",
+    "Month": "Aug",
+    "Year_Month": "2011-Aug",
+    "Mean_Temp": "16.3",
+    "Rain_in_mm": "15.4",
+    "Solar_Energy_in_Mj/m^2": "9.5"
+  },
+  {
+    "Year": "2011",
+    "Month": "Sep",
+    "Year_Month": "2011-Sep",
+    "Mean_Temp": "18.4",
+    "Rain_in_mm": "76",
+    "Solar_Energy_in_Mj/m^2": "13.1"
+  },
+  {
+    "Year": "2011",
+    "Month": "Oct",
+    "Year_Month": "2011-Oct",
+    "Mean_Temp": "19.8",
+    "Rain_in_mm": "72.8",
+    "Solar_Energy_in_Mj/m^2": "16.4"
+  },
+  {
+    "Year": "2011",
+    "Month": "Nov",
+    "Year_Month": "2011-Nov",
+    "Mean_Temp": "23.4",
+    "Rain_in_mm": "112",
+    "Solar_Energy_in_Mj/m^2": "19.5"
+  },
+  {
+    "Year": "2011",
+    "Month": "Dec",
+    "Year_Month": "2011-Dec",
+    "Mean_Temp": "24.4",
+    "Rain_in_mm": "60.6",
+    "Solar_Energy_in_Mj/m^2": "25.4"
+  },
+  {
+    "Year": "2012",
+    "Month": "Jan",
+    "Year_Month": "2012-Jan",
+    "Mean_Temp": "27.4",
+    "Rain_in_mm": "10.6",
+    "Solar_Energy_in_Mj/m^2": "24.6"
+  },
+  {
+    "Year": "2012",
+    "Month": "Feb",
+    "Year_Month": "2012-Feb",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "81.6",
+    "Solar_Energy_in_Mj/m^2": "19.4"
+  },
+  {
+    "Year": "2012",
+    "Month": "Mar",
+    "Year_Month": "2012-Mar",
+    "Mean_Temp": "22.6",
+    "Rain_in_mm": "64",
+    "Solar_Energy_in_Mj/m^2": "13.6"
+  },
+  {
+    "Year": "2012",
+    "Month": "Apr",
+    "Year_Month": "2012-Apr",
+    "Mean_Temp": "21",
+    "Rain_in_mm": "35.4",
+    "Solar_Energy_in_Mj/m^2": "12.1"
+  },
+  {
+    "Year": "2012",
+    "Month": "May",
+    "Year_Month": "2012-May",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "54",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2012",
+    "Month": "Jun",
+    "Year_Month": "2012-Jun",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "55.4",
+    "Solar_Energy_in_Mj/m^2": "5.8"
+  },
+  {
+    "Year": "2012",
+    "Month": "Jul",
+    "Year_Month": "2012-Jul",
+    "Mean_Temp": "13.6",
+    "Rain_in_mm": "34.2",
+    "Solar_Energy_in_Mj/m^2": "6.5"
+  },
+  {
+    "Year": "2012",
+    "Month": "Aug",
+    "Year_Month": "2012-Aug",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "50.4",
+    "Solar_Energy_in_Mj/m^2": "10.1"
+  },
+  {
+    "Year": "2012",
+    "Month": "Sep",
+    "Year_Month": "2012-Sep",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "29.8",
+    "Solar_Energy_in_Mj/m^2": "14.4"
+  },
+  {
+    "Year": "2012",
+    "Month": "Oct",
+    "Year_Month": "2012-Oct",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "25",
+    "Solar_Energy_in_Mj/m^2": "16.1"
+  },
+  {
+    "Year": "2012",
+    "Month": "Nov",
+    "Year_Month": "2012-Nov",
+    "Mean_Temp": "23.3",
+    "Rain_in_mm": "23.6",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "2012",
+    "Month": "Dec",
+    "Year_Month": "2012-Dec",
+    "Mean_Temp": "26",
+    "Rain_in_mm": "18.8",
+    "Solar_Energy_in_Mj/m^2": "25.1"
+  },
+  {
+    "Year": "2013",
+    "Month": "Jan",
+    "Year_Month": "2013-Jan",
+    "Mean_Temp": "28",
+    "Rain_in_mm": "9.8",
+    "Solar_Energy_in_Mj/m^2": "26.9"
+  },
+  {
+    "Year": "2013",
+    "Month": "Feb",
+    "Year_Month": "2013-Feb",
+    "Mean_Temp": "29",
+    "Rain_in_mm": "55.2",
+    "Solar_Energy_in_Mj/m^2": "23"
+  },
+  {
+    "Year": "2013",
+    "Month": "Mar",
+    "Year_Month": "2013-Mar",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "44.2",
+    "Solar_Energy_in_Mj/m^2": "17"
+  },
+  {
+    "Year": "2013",
+    "Month": "Apr",
+    "Year_Month": "2013-Apr",
+    "Mean_Temp": "20.5",
+    "Rain_in_mm": "24.2",
+    "Solar_Energy_in_Mj/m^2": "10.8"
+  },
+  {
+    "Year": "2013",
+    "Month": "May",
+    "Year_Month": "2013-May",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "26",
+    "Solar_Energy_in_Mj/m^2": "7.9"
+  },
+  {
+    "Year": "2013",
+    "Month": "Jun",
+    "Year_Month": "2013-Jun",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "126",
+    "Solar_Energy_in_Mj/m^2": "5.9"
+  },
+  {
+    "Year": "2013",
+    "Month": "Jul",
+    "Year_Month": "2013-Jul",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "35",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2013",
+    "Month": "Aug",
+    "Year_Month": "2013-Aug",
+    "Mean_Temp": "15.6",
+    "Rain_in_mm": "38.2",
+    "Solar_Energy_in_Mj/m^2": "9.7"
+  },
+  {
+    "Year": "2013",
+    "Month": "Sep",
+    "Year_Month": "2013-Sep",
+    "Mean_Temp": "19.1",
+    "Rain_in_mm": "66",
+    "Solar_Energy_in_Mj/m^2": "13"
+  },
+  {
+    "Year": "2013",
+    "Month": "Oct",
+    "Year_Month": "2013-Oct",
+    "Mean_Temp": "18.9",
+    "Rain_in_mm": "42.6",
+    "Solar_Energy_in_Mj/m^2": "15.5"
+  },
+  {
+    "Year": "2013",
+    "Month": "Nov",
+    "Year_Month": "2013-Nov",
+    "Mean_Temp": "21.1",
+    "Rain_in_mm": "56.8",
+    "Solar_Energy_in_Mj/m^2": "17.5"
+  },
+  {
+    "Year": "2013",
+    "Month": "Dec",
+    "Year_Month": "2013-Dec",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "35.8",
+    "Solar_Energy_in_Mj/m^2": "22.5"
+  },
+  {
+    "Year": "2014",
+    "Month": "Jan",
+    "Year_Month": "2014-Jan",
+    "Mean_Temp": "28.9",
+    "Rain_in_mm": "8.4",
+    "Solar_Energy_in_Mj/m^2": "25.2"
+  },
+  {
+    "Year": "2014",
+    "Month": "Feb",
+    "Year_Month": "2014-Feb",
+    "Mean_Temp": "28.8",
+    "Rain_in_mm": "14",
+    "Solar_Energy_in_Mj/m^2": "21.2"
+  },
+  {
+    "Year": "2014",
+    "Month": "Mar",
+    "Year_Month": "2014-Mar",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": "14.5"
+  },
+  {
+    "Year": "2014",
+    "Month": "Apr",
+    "Year_Month": "2014-Apr",
+    "Mean_Temp": "20.1",
+    "Rain_in_mm": "65.6",
+    "Solar_Energy_in_Mj/m^2": "9.1"
+  },
+  {
+    "Year": "2014",
+    "Month": "May",
+    "Year_Month": "2014-May",
+    "Mean_Temp": "18.4",
+    "Rain_in_mm": "17.8",
+    "Solar_Energy_in_Mj/m^2": "7.4"
+  },
+  {
+    "Year": "2014",
+    "Month": "Jun",
+    "Year_Month": "2014-Jun",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "44.4",
+    "Solar_Energy_in_Mj/m^2": "5.9"
+  },
+  {
+    "Year": "2014",
+    "Month": "Jul",
+    "Year_Month": "2014-Jul",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "20.6",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2014",
+    "Month": "Aug",
+    "Year_Month": "2014-Aug",
+    "Mean_Temp": "15",
+    "Rain_in_mm": "31.2",
+    "Solar_Energy_in_Mj/m^2": "10"
+  },
+  {
+    "Year": "2014",
+    "Month": "Sep",
+    "Year_Month": "2014-Sep",
+    "Mean_Temp": "18.1",
+    "Rain_in_mm": "47.2",
+    "Solar_Energy_in_Mj/m^2": "13.9"
+  },
+  {
+    "Year": "2014",
+    "Month": "Oct",
+    "Year_Month": "2014-Oct",
+    "Mean_Temp": "22.1",
+    "Rain_in_mm": "36.4",
+    "Solar_Energy_in_Mj/m^2": "17.6"
+  },
+  {
+    "Year": "2014",
+    "Month": "Nov",
+    "Year_Month": "2014-Nov",
+    "Mean_Temp": "23.9",
+    "Rain_in_mm": "50.2",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "2014",
+    "Month": "Dec",
+    "Year_Month": "2014-Dec",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "41.4",
+    "Solar_Energy_in_Mj/m^2": "23.7"
+  },
+  {
+    "Year": "2015",
+    "Month": "Jan",
+    "Year_Month": "2015-Jan",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "30",
+    "Solar_Energy_in_Mj/m^2": "22.3"
+  },
+  {
+    "Year": "2015",
+    "Month": "Feb",
+    "Year_Month": "2015-Feb",
+    "Mean_Temp": "28",
+    "Rain_in_mm": "38.8",
+    "Solar_Energy_in_Mj/m^2": "19.6"
+  },
+  {
+    "Year": "2015",
+    "Month": "Mar",
+    "Year_Month": "2015-Mar",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "22.2",
+    "Solar_Energy_in_Mj/m^2": "16.1"
+  },
+  {
+    "Year": "2015",
+    "Month": "Apr",
+    "Year_Month": "2015-Apr",
+    "Mean_Temp": "19.4",
+    "Rain_in_mm": "35.2",
+    "Solar_Energy_in_Mj/m^2": "10.7"
+  },
+  {
+    "Year": "2015",
+    "Month": "May",
+    "Year_Month": "2015-May",
+    "Mean_Temp": "16.9",
+    "Rain_in_mm": "25.4",
+    "Solar_Energy_in_Mj/m^2": "7.9"
+  },
+  {
+    "Year": "2015",
+    "Month": "Jun",
+    "Year_Month": "2015-Jun",
+    "Mean_Temp": "13.8",
+    "Rain_in_mm": "23.4",
+    "Solar_Energy_in_Mj/m^2": "6.5"
+  },
+  {
+    "Year": "2015",
+    "Month": "Jul",
+    "Year_Month": "2015-Jul",
+    "Mean_Temp": "12.7",
+    "Rain_in_mm": "63.6",
+    "Solar_Energy_in_Mj/m^2": "6.9"
+  },
+  {
+    "Year": "2015",
+    "Month": "Aug",
+    "Year_Month": "2015-Aug",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": "8.7"
+  },
+  {
+    "Year": "2015",
+    "Month": "Sep",
+    "Year_Month": "2015-Sep",
+    "Mean_Temp": "17.3",
+    "Rain_in_mm": "27.8",
+    "Solar_Energy_in_Mj/m^2": "14.2"
+  },
+  {
+    "Year": "2015",
+    "Month": "Oct",
+    "Year_Month": "2015-Oct",
+    "Mean_Temp": "25.5",
+    "Rain_in_mm": "16.6",
+    "Solar_Energy_in_Mj/m^2": "19.7"
+  },
+  {
+    "Year": "2015",
+    "Month": "Nov",
+    "Year_Month": "2015-Nov",
+    "Mean_Temp": "23.6",
+    "Rain_in_mm": "54.2",
+    "Solar_Energy_in_Mj/m^2": "21.1"
+  },
+  {
+    "Year": "2015",
+    "Month": "Dec",
+    "Year_Month": "2015-Dec",
+    "Mean_Temp": "29.1",
+    "Rain_in_mm": "44.8",
+    "Solar_Energy_in_Mj/m^2": "27.2"
+  },
+  {
+    "Year": "2016",
+    "Month": "Jan",
+    "Year_Month": "2016-Jan",
+    "Mean_Temp": "27.2",
+    "Rain_in_mm": "44.8",
+    "Solar_Energy_in_Mj/m^2": "20.4"
+  },
+  {
+    "Year": "2016",
+    "Month": "Feb",
+    "Year_Month": "2016-Feb",
+    "Mean_Temp": "27",
+    "Rain_in_mm": "4.4",
+    "Solar_Energy_in_Mj/m^2": "20.7"
+  },
+  {
+    "Year": "2016",
+    "Month": "Mar",
+    "Year_Month": "2016-Mar",
+    "Mean_Temp": "25.7",
+    "Rain_in_mm": "27.2",
+    "Solar_Energy_in_Mj/m^2": "14.2"
+  },
+  {
+    "Year": "2016",
+    "Month": "Apr",
+    "Year_Month": "2016-Apr",
+    "Mean_Temp": "22.7",
+    "Rain_in_mm": "36.4",
+    "Solar_Energy_in_Mj/m^2": "11.9"
+  },
+  {
+    "Year": "2016",
+    "Month": "May",
+    "Year_Month": "2016-May",
+    "Mean_Temp": "18.1",
+    "Rain_in_mm": "47",
+    "Solar_Energy_in_Mj/m^2": "8.9"
+  },
+  {
+    "Year": "2016",
+    "Month": "Jun",
+    "Year_Month": "2016-Jun",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "66.4",
+    "Solar_Energy_in_Mj/m^2": "6.7"
+  },
+  {
+    "Year": "2016",
+    "Month": "Jul",
+    "Year_Month": "2016-Jul",
+    "Mean_Temp": "13.8",
+    "Rain_in_mm": "63.4",
+    "Solar_Energy_in_Mj/m^2": "7.5"
+  },
+  {
+    "Year": "2016",
+    "Month": "Aug",
+    "Year_Month": "2016-Aug",
+    "Mean_Temp": "15.2",
+    "Rain_in_mm": "30.6",
+    "Solar_Energy_in_Mj/m^2": "10.2"
+  },
+  {
+    "Year": "2016",
+    "Month": "Sep",
+    "Year_Month": "2016-Sep",
+    "Mean_Temp": "16.2",
+    "Rain_in_mm": "99.8",
+    "Solar_Energy_in_Mj/m^2": "12.4"
+  },
+  {
+    "Year": "2016",
+    "Month": "Oct",
+    "Year_Month": "2016-Oct",
+    "Mean_Temp": "18.5",
+    "Rain_in_mm": "77.4",
+    "Solar_Energy_in_Mj/m^2": "17.3"
+  },
+  {
+    "Year": "2016",
+    "Month": "Nov",
+    "Year_Month": "2016-Nov",
+    "Mean_Temp": "21.2",
+    "Rain_in_mm": "39.8",
+    "Solar_Energy_in_Mj/m^2": "19.2"
+  },
+  {
+    "Year": "2016",
+    "Month": "Dec",
+    "Year_Month": "2016-Dec",
+    "Mean_Temp": "26.3",
+    "Rain_in_mm": "77.4",
+    "Solar_Energy_in_Mj/m^2": "22.8"
+  },
+  {
+    "Year": "2017",
+    "Month": "Jan",
+    "Year_Month": "2017-Jan",
+    "Mean_Temp": "27.6",
+    "Rain_in_mm": "25.6",
+    "Solar_Energy_in_Mj/m^2": "23.4"
+  },
+  {
+    "Year": "2017",
+    "Month": "Feb",
+    "Year_Month": "2017-Feb",
+    "Mean_Temp": "26.7",
+    "Rain_in_mm": "32.4",
+    "Solar_Energy_in_Mj/m^2": "19.9"
+  },
+  {
+    "Year": "2017",
+    "Month": "Mar",
+    "Year_Month": "2017-Mar",
+    "Mean_Temp": "27.8",
+    "Rain_in_mm": "33.4",
+    "Solar_Energy_in_Mj/m^2": "16.6"
+  },
+  {
+    "Year": "2017",
+    "Month": "Apr",
+    "Year_Month": "2017-Apr",
+    "Mean_Temp": "20.6",
+    "Rain_in_mm": "103.2",
+    "Solar_Energy_in_Mj/m^2": "10.7"
+  },
+  {
+    "Year": "2017",
+    "Month": "May",
+    "Year_Month": "2017-May",
+    "Mean_Temp": "16.6",
+    "Rain_in_mm": "19.4",
+    "Solar_Energy_in_Mj/m^2": "8.4"
+  },
+  {
+    "Year": "2017",
+    "Month": "Jun",
+    "Year_Month": "2017-Jun",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "16.4",
+    "Solar_Energy_in_Mj/m^2": "7.3"
+  },
+  {
+    "Year": "2017",
+    "Month": "Jul",
+    "Year_Month": "2017-Jul",
+    "Mean_Temp": "14",
+    "Rain_in_mm": "17.8",
+    "Solar_Energy_in_Mj/m^2": "8.3"
+  },
+  {
+    "Year": "2017",
+    "Month": "Aug",
+    "Year_Month": "2017-Aug",
+    "Mean_Temp": "14.2",
+    "Rain_in_mm": "40",
+    "Solar_Energy_in_Mj/m^2": "9.9"
+  },
+  {
+    "Year": "2017",
+    "Month": "Sep",
+    "Year_Month": "2017-Sep",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "28",
+    "Solar_Energy_in_Mj/m^2": "13.6"
+  },
+  {
+    "Year": "2017",
+    "Month": "Oct",
+    "Year_Month": "2017-Oct",
+    "Mean_Temp": "21.6",
+    "Rain_in_mm": "33.2",
+    "Solar_Energy_in_Mj/m^2": "17.4"
+  },
+  {
+    "Year": "2017",
+    "Month": "Nov",
+    "Year_Month": "2017-Nov",
+    "Mean_Temp": "26.6",
+    "Rain_in_mm": "51.6",
+    "Solar_Energy_in_Mj/m^2": "22.3"
+  },
+  {
+    "Year": "2017",
+    "Month": "Dec",
+    "Year_Month": "2017-Dec",
+    "Mean_Temp": "25.6",
+    "Rain_in_mm": "124.4",
+    "Solar_Energy_in_Mj/m^2": "22.4"
+  },
+  {
+    "Year": "2018",
+    "Month": "Jan",
+    "Year_Month": "2018-Jan",
+    "Mean_Temp": "28.3",
+    "Rain_in_mm": "70.2",
+    "Solar_Energy_in_Mj/m^2": "23.3"
+  },
+  {
+    "Year": "2018",
+    "Month": "Feb",
+    "Year_Month": "2018-Feb",
+    "Mean_Temp": "27.9",
+    "Rain_in_mm": "2.2",
+    "Solar_Energy_in_Mj/m^2": "20.4"
+  },
+  {
+    "Year": "2018",
+    "Month": "Mar",
+    "Year_Month": "2018-Mar",
+    "Mean_Temp": "25.8",
+    "Rain_in_mm": "30",
+    "Solar_Energy_in_Mj/m^2": "16.3"
+  },
+  {
+    "Year": "2018",
+    "Month": "Apr",
+    "Year_Month": "2018-Apr",
+    "Mean_Temp": "22.9",
+    "Rain_in_mm": "7",
+    "Solar_Energy_in_Mj/m^2": "11.1"
+  },
+  {
+    "Year": "2018",
+    "Month": "May",
+    "Year_Month": "2018-May",
+    "Mean_Temp": "17.2",
+    "Rain_in_mm": "60",
+    "Solar_Energy_in_Mj/m^2": "7.2"
+  },
+  {
+    "Year": "2018",
+    "Month": "Jun",
+    "Year_Month": "2018-Jun",
+    "Mean_Temp": "13.9",
+    "Rain_in_mm": "71.4",
+    "Solar_Energy_in_Mj/m^2": "7.1"
+  },
+  {
+    "Year": "2018",
+    "Month": "Jul",
+    "Year_Month": "2018-Jul",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "16.2",
+    "Solar_Energy_in_Mj/m^2": "8.3"
+  },
+  {
+    "Year": "2018",
+    "Month": "Aug",
+    "Year_Month": "2018-Aug",
+    "Mean_Temp": "14.8",
+    "Rain_in_mm": "21.6",
+    "Solar_Energy_in_Mj/m^2": "10.6"
+  },
+  {
+    "Year": "2018",
+    "Month": "Sep",
+    "Year_Month": "2018-Sep",
+    "Mean_Temp": "17.4",
+    "Rain_in_mm": "16.4",
+    "Solar_Energy_in_Mj/m^2": "14.6"
+  },
+  {
+    "Year": "2018",
+    "Month": "Oct",
+    "Year_Month": "2018-Oct",
+    "Mean_Temp": "21.8",
+    "Rain_in_mm": "38.4",
+    "Solar_Energy_in_Mj/m^2": "18.4"
+  },
+  {
+    "Year": "2018",
+    "Month": "Nov",
+    "Year_Month": "2018-Nov",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "98.6",
+    "Solar_Energy_in_Mj/m^2": "18.8"
+  },
+  {
+    "Year": "2018",
+    "Month": "Dec",
+    "Year_Month": "2018-Dec",
+    "Mean_Temp": "26.1",
+    "Rain_in_mm": "116.8",
+    "Solar_Energy_in_Mj/m^2": "21.4"
+  },
+  {
+    "Year": "2019",
+    "Month": "Jan",
+    "Year_Month": "2019-Jan",
+    "Mean_Temp": "30.4",
+    "Rain_in_mm": "11.2",
+    "Solar_Energy_in_Mj/m^2": "25.1"
+  },
+  {
+    "Year": "2019",
+    "Month": "Feb",
+    "Year_Month": "2019-Feb",
+    "Mean_Temp": "27.7",
+    "Rain_in_mm": "15.2",
+    "Solar_Energy_in_Mj/m^2": "20.4"
+  },
+  {
+    "Year": "2019",
+    "Month": "Mar",
+    "Year_Month": "2019-Mar",
+    "Mean_Temp": "26.4",
+    "Rain_in_mm": "6.4",
+    "Solar_Energy_in_Mj/m^2": "15.4"
+  },
+  {
+    "Year": "2019",
+    "Month": "Apr",
+    "Year_Month": "2019-Apr",
+    "Mean_Temp": "22.6",
+    "Rain_in_mm": "5",
+    "Solar_Energy_in_Mj/m^2": "11.4"
+  },
+  {
+    "Year": "2019",
+    "Month": "May",
+    "Year_Month": "2019-May",
+    "Mean_Temp": "17.5",
+    "Rain_in_mm": "59.8",
+    "Solar_Energy_in_Mj/m^2": "8.1"
+  },
+  {
+    "Year": "2019",
+    "Month": "Jun",
+    "Year_Month": "2019-Jun",
+    "Mean_Temp": "14.7",
+    "Rain_in_mm": "58.4",
+    "Solar_Energy_in_Mj/m^2": "7.5"
+  },
+  {
+    "Year": "2019",
+    "Month": "Jul",
+    "Year_Month": "2019-Jul",
+    "Mean_Temp": "14.3",
+    "Rain_in_mm": "26.6",
+    "Solar_Energy_in_Mj/m^2": "7.8"
+  },
+  {
+    "Year": "2019",
+    "Month": "Aug",
+    "Year_Month": "2019-Aug",
+    "Mean_Temp": "14.1",
+    "Rain_in_mm": "47.2",
+    "Solar_Energy_in_Mj/m^2": "9.9"
+  },
+  {
+    "Year": "2019",
+    "Month": "Sep",
+    "Year_Month": "2019-Sep",
+    "Mean_Temp": "17.5",
+    "Rain_in_mm": "38.4",
+    "Solar_Energy_in_Mj/m^2": "14"
+  },
+  {
+    "Year": "2019",
+    "Month": "Oct",
+    "Year_Month": "2019-Oct",
+    "Mean_Temp": "21.6",
+    "Rain_in_mm": "33.2",
+    "Solar_Energy_in_Mj/m^2": "18.5"
+  },
+  {
+    "Year": "2019",
+    "Month": "Nov",
+    "Year_Month": "2019-Nov",
+    "Mean_Temp": "22.4",
+    "Rain_in_mm": "49.6",
+    "Solar_Energy_in_Mj/m^2": "19.7"
+  },
+  {
+    "Year": "2019",
+    "Month": "Dec",
+    "Year_Month": "2019-Dec",
+    "Mean_Temp": "26.4",
+    "Rain_in_mm": "7.8",
+    "Solar_Energy_in_Mj/m^2": "24.3"
+  },
+  {
+    "Year": "2020",
+    "Month": "Jan",
+    "Year_Month": "2020-Jan",
+    "Mean_Temp": "27.8",
+    "Rain_in_mm": "100",
+    "Solar_Energy_in_Mj/m^2": "21.8"
+  },
+  {
+    "Year": "2020",
+    "Month": "Feb",
+    "Year_Month": "2020-Feb",
+    "Mean_Temp": "24.9",
+    "Rain_in_mm": "56.6",
+    "Solar_Energy_in_Mj/m^2": "17.6"
+  },
+  {
+    "Year": "2020",
+    "Month": "Mar",
+    "Year_Month": "2020-Mar",
+    "Mean_Temp": "22.9",
+    "Rain_in_mm": "89.8",
+    "Solar_Energy_in_Mj/m^2": "14.8"
+  },
+  {
+    "Year": "2020",
+    "Month": "Apr",
+    "Year_Month": "2020-Apr",
+    "Mean_Temp": "18.8",
+    "Rain_in_mm": "130.8",
+    "Solar_Energy_in_Mj/m^2": "10.2"
+  },
+  {
+    "Year": "2020",
+    "Month": "May",
+    "Year_Month": "2020-May",
+    "Mean_Temp": "15.5",
+    "Rain_in_mm": "49.8",
+    "Solar_Energy_in_Mj/m^2": "8.4"
+  },
+  {
+    "Year": "2020",
+    "Month": "Jun",
+    "Year_Month": "2020-Jun",
+    "Mean_Temp": "14.2",
+    "Rain_in_mm": "22.8",
+    "Solar_Energy_in_Mj/m^2": "7.4"
+  },
+  {
+    "Year": "2020",
+    "Month": "Jul",
+    "Year_Month": "2020-Jul",
+    "Mean_Temp": "13.2",
+    "Rain_in_mm": "28",
+    "Solar_Energy_in_Mj/m^2": "7.6"
+  },
+  {
+    "Year": "2020",
+    "Month": "Aug",
+    "Year_Month": "2020-Aug",
+    "Mean_Temp": "14.5",
+    "Rain_in_mm": "66.8",
+    "Solar_Energy_in_Mj/m^2": "10.5"
+  },
+  {
+    "Year": "2020",
+    "Month": "Sep",
+    "Year_Month": "2020-Sep",
+    "Mean_Temp": "17.7",
+    "Rain_in_mm": "27.8",
+    "Solar_Energy_in_Mj/m^2": "14.6"
+  },
+  {
+    "Year": "2020",
+    "Month": "Oct",
+    "Year_Month": "2020-Oct",
+    "Mean_Temp": "19",
+    "Rain_in_mm": "64.4",
+    "Solar_Energy_in_Mj/m^2": "15.3"
+  },
+  {
+    "Year": "2020",
+    "Month": "Nov",
+    "Year_Month": "2020-Nov",
+    "Mean_Temp": "24.8",
+    "Rain_in_mm": "44.8",
+    "Solar_Energy_in_Mj/m^2": "21.5"
+  },
+  {
+    "Year": "2020",
+    "Month": "Dec",
+    "Year_Month": "2020-Dec",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "30.8",
+    "Solar_Energy_in_Mj/m^2": "22.5"
+  },
+  {
+    "Year": "2021",
+    "Month": "Jan",
+    "Year_Month": "2021-Jan",
+    "Mean_Temp": "26.1",
+    "Rain_in_mm": "106.4",
+    "Solar_Energy_in_Mj/m^2": "21.2"
+  },
+  {
+    "Year": "2021",
+    "Month": "Feb",
+    "Year_Month": "2021-Feb",
+    "Mean_Temp": "25.3",
+    "Rain_in_mm": "5.2",
+    "Solar_Energy_in_Mj/m^2": "18.9"
+  },
+  {
+    "Year": "2021",
+    "Month": "Mar",
+    "Year_Month": "2021-Mar",
+    "Mean_Temp": "22.5",
+    "Rain_in_mm": "49",
+    "Solar_Energy_in_Mj/m^2": "13.7"
+  },
+  {
+    "Year": "2021",
+    "Month": "Apr",
+    "Year_Month": "2021-Apr",
+    "Mean_Temp": "20.6",
+    "Rain_in_mm": "13.2",
+    "Solar_Energy_in_Mj/m^2": "10.9"
+  },
+  {
+    "Year": "2021",
+    "Month": "May",
+    "Year_Month": "2021-May",
+    "Mean_Temp": "17.3",
+    "Rain_in_mm": "67.6",
+    "Solar_Energy_in_Mj/m^2": "7.9"
+  },
+  {
+    "Year": "2021",
+    "Month": "Jun",
+    "Year_Month": "2021-Jun",
+    "Mean_Temp": "14.5",
+    "Rain_in_mm": "50.4",
+    "Solar_Energy_in_Mj/m^2": "6.9"
+  },
+  {
+    "Year": "2021",
+    "Month": "Jul",
+    "Year_Month": "2021-Jul",
+    "Mean_Temp": "13.5",
+    "Rain_in_mm": "24",
+    "Solar_Energy_in_Mj/m^2": "8"
+  },
+  {
+    "Year": "2021",
+    "Month": "Aug",
+    "Year_Month": "2021-Aug",
+    "Mean_Temp": "15.8",
+    "Rain_in_mm": "35.2",
+    "Solar_Energy_in_Mj/m^2": "10.8"
+  },
+  {
+    "Year": "2021",
+    "Month": "Sep",
+    "Year_Month": "2021-Sep",
+    "Mean_Temp": "17.9",
+    "Rain_in_mm": "66.6",
+    "Solar_Energy_in_Mj/m^2": "14.2"
+  },
+  {
+    "Year": "2021",
+    "Month": "Oct",
+    "Year_Month": "2021-Oct",
+    "Mean_Temp": "19.2",
+    "Rain_in_mm": "126.8",
+    "Solar_Energy_in_Mj/m^2": "17.7"
+  },
+  {
+    "Year": "2021",
+    "Month": "Nov",
+    "Year_Month": "2021-Nov",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "86",
+    "Solar_Energy_in_Mj/m^2": "19.3"
+  },
+  {
+    "Year": "2021",
+    "Month": "Dec",
+    "Year_Month": "2021-Dec",
+    "Mean_Temp": "24.7",
+    "Rain_in_mm": "34.8",
+    "Solar_Energy_in_Mj/m^2": "23.2"
+  },
+  {
+    "Year": "2022",
+    "Month": "Jan",
+    "Year_Month": "2022-Jan",
+    "Mean_Temp": "30",
+    "Rain_in_mm": "58.2",
+    "Solar_Energy_in_Mj/m^2": "22.8"
+  },
+  {
+    "Year": "2022",
+    "Month": "Feb",
+    "Year_Month": "2022-Feb",
+    "Mean_Temp": "26.3",
+    "Rain_in_mm": "4.8",
+    "Solar_Energy_in_Mj/m^2": "19.9"
+  },
+  {
+    "Year": "2022",
+    "Month": "Mar",
+    "Year_Month": "2022-Mar",
+    "Mean_Temp": "24.6",
+    "Rain_in_mm": "67",
+    "Solar_Energy_in_Mj/m^2": "14.6"
+  },
+  {
+    "Year": "2022",
+    "Month": "Apr",
+    "Year_Month": "2022-Apr",
+    "Mean_Temp": "20.7",
+    "Rain_in_mm": "68.2",
+    "Solar_Energy_in_Mj/m^2": "9.9"
+  },
+  {
+    "Year": "2022",
+    "Month": "May",
+    "Year_Month": "2022-May",
+    "Mean_Temp": "16.4",
+    "Rain_in_mm": "17.2",
+    "Solar_Energy_in_Mj/m^2": "7.9"
+  },
+  {
+    "Year": "2022",
+    "Month": "Jun",
+    "Year_Month": "2022-Jun",
+    "Mean_Temp": "13.6",
+    "Rain_in_mm": "30.6",
+    "Solar_Energy_in_Mj/m^2": "7"
+  },
+  {
+    "Year": "2022",
+    "Month": "Jul",
+    "Year_Month": "2022-Jul",
+    "Mean_Temp": "13.4",
+    "Rain_in_mm": "38.2",
+    "Solar_Energy_in_Mj/m^2": "8.3"
+  },
+  {
+    "Year": "2022",
+    "Month": "Aug",
+    "Year_Month": "2022-Aug",
+    "Mean_Temp": "15",
+    "Rain_in_mm": "62",
+    "Solar_Energy_in_Mj/m^2": "9.8"
+  },
+  {
+    "Year": "2022",
+    "Month": "Sep",
+    "Year_Month": "2022-Sep",
+    "Mean_Temp": "16.1",
+    "Rain_in_mm": "49",
+    "Solar_Energy_in_Mj/m^2": "11.9"
+  },
+  {
+    "Year": "2022",
+    "Month": "Oct",
+    "Year_Month": "2022-Oct",
+    "Mean_Temp": "18.9",
+    "Rain_in_mm": "146",
+    "Solar_Energy_in_Mj/m^2": "16.2"
+  },
+  {
+    "Year": "2022",
+    "Month": "Nov",
+    "Year_Month": "2022-Nov",
+    "Mean_Temp": "20.1",
+    "Rain_in_mm": "74.8",
+    "Solar_Energy_in_Mj/m^2": "19.6"
+  },
+  {
+    "Year": "2022",
+    "Month": "Dec",
+    "Year_Month": "2022-Dec",
+    "Mean_Temp": "24.1",
+    "Rain_in_mm": "94.2",
+    "Solar_Energy_in_Mj/m^2": "24.3"
+  },
+  {
+    "Year": "2023",
+    "Month": "Jan",
+    "Year_Month": "2023-Jan",
+    "Mean_Temp": "26.9",
+    "Rain_in_mm": "11.4",
+    "Solar_Energy_in_Mj/m^2": "22.7"
+  },
+  {
+    "Year": "2023",
+    "Month": "Feb",
+    "Year_Month": "2023-Feb",
+    "Mean_Temp": "25.9",
+    "Rain_in_mm": "18",
+    "Solar_Energy_in_Mj/m^2": "19.4"
+  },
+  {
+    "Year": "2023",
+    "Month": "Mar",
+    "Year_Month": "2023-Mar",
+    "Mean_Temp": "23.8",
+    "Rain_in_mm": "25",
+    "Solar_Energy_in_Mj/m^2": "13.8"
+  },
+  {
+    "Year": "2023",
+    "Month": "Apr",
+    "Year_Month": "2023-Apr",
+    "Mean_Temp": "20.3",
+    "Rain_in_mm": "59.2",
+    "Solar_Energy_in_Mj/m^2": "10.8"
+  },
+  {
+    "Year": "2023",
+    "Month": "May",
+    "Year_Month": "2023-May",
+    "Mean_Temp": "16.2",
+    "Rain_in_mm": "43.4",
+    "Solar_Energy_in_Mj/m^2": "8.3"
+  },
+  {
+    "Year": "2023",
+    "Month": "Jun",
+    "Year_Month": "2023-Jun",
+    "Mean_Temp": "14.4",
+    "Rain_in_mm": "37.6",
+    "Solar_Energy_in_Mj/m^2": "7.4"
+  },
+  {
+    "Year": "2023",
+    "Month": "Jul",
+    "Year_Month": "2023-Jul",
+    "Mean_Temp": "14.8",
+    "Rain_in_mm": "11",
+    "Solar_Energy_in_Mj/m^2": "8.4"
+  },
+  {
+    "Year": "2023",
+    "Month": "Aug",
+    "Year_Month": "2023-Aug",
+    "Mean_Temp": "15.7",
+    "Rain_in_mm": "28.2",
+    "Solar_Energy_in_Mj/m^2": "10.3"
+  },
+  {
+    "Year": "2023",
+    "Month": "Sep",
+    "Year_Month": "2023-Sep",
+    "Mean_Temp": "20.7",
+    "Rain_in_mm": "8.2",
+    "Solar_Energy_in_Mj/m^2": "16"
+  },
+  {
+    "Year": "2023",
+    "Month": "Oct",
+    "Year_Month": "2023-Oct",
+    "Mean_Temp": "19.9",
+    "Rain_in_mm": "51.8",
+    "Solar_Energy_in_Mj/m^2": "17.8"
+  },
+  {
+    "Year": "2023",
+    "Month": "Nov",
+    "Year_Month": "2023-Nov",
+    "Mean_Temp": "22.4",
+    "Rain_in_mm": "38",
+    "Solar_Energy_in_Mj/m^2": "20.2"
+  },
+  {
+    "Year": "2023",
+    "Month": "Dec",
+    "Year_Month": "2023-Dec",
+    "Mean_Temp": "24",
+    "Rain_in_mm": "92.6",
+    "Solar_Energy_in_Mj/m^2": "20.2"
+  }
+]

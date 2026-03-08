@@ -1,0 +1,371 @@
+@{
+    ViewData["Title"] = "Solar";
+}
+
+<style>
+.info-window {
+  position: relative;
+  background: #fff;
+  text-align: left;
+  border-radius: 4px;
+}
+.map-legend {
+  text-align: left;
+  background: #fff;
+  padding: 10px;
+  margin: 4px 8px;
+  border-radius: 4px;
+  width: 100px;
+}
+#search {
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#search-input {
+  height: 36px;
+  margin-right: 8px;
+  width: 300px;
+}
+#photovoltaic {
+  padding: 60px;
+  padding-top: 0;
+}
+#map {
+  margin-top: 30px;
+}
+</style>
+<script>
+  (g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({
+    key: "AIzaSyC3hKH8Rr-IhESluHILnu48f2jw0t22-h0",
+    v: "beta",
+    // Use the 'v' parameter to indicate the version to use (weekly, beta, alpha, etc.).
+    // Add other bootstrap parameters as needed, using camel case.
+    region: "au",
+    language: "en",
+  });
+</script>
+
+<div>
+    <div class="banner" style="height: 150px; margin-bottom: 5%;">
+        <div class="banner-content"> <p>Solar Energy</p> </div>
+    </div>
+</div>
+
+<div id="photovoltaic" class="questionnaire-form">
+  <div class="solar-heading">
+    <p class="solar-description" style="text-align:center">
+      Solar photovoltaics (PV) is a very modular technology that can be 
+      manufactured in large plants, which creates economies of scale, 
+      but can also be deployed in very small quantities at a time. This 
+      allows for a wide range of applications, from small residential 
+      roof-top systems up to utility-scale power generation installations.
+    </p>
+  </div>
+  <span class="solar-steps">Step 1</span>
+  <h4 class="solar-sub-headings">Let's find the property that you are considering for solar.</h4>
+  <div id="search">
+      <input type="text" id="search-input" placeholder="Search postcode" />
+      <button class="btn btn-primary" id="search-button" disabled>Search</button>
+  </div>
+  <div id="map" style="height: 700px;"></div>
+  <span class="solar-steps">Step 2</span>
+  <h4 class="solar-sub-headings">Helpful hints for your Solar PV system</h4>
+  <div class="solar-hints-container">
+    <div class="solar-hints">
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Monitoring Habits:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Regularly check bills and inverter data to detect system glitches.</li>
+          <li class="solar-hints-list-item">Utilize solar monitoring tools to track system performance.</li>
+        </ul>
+      </div>
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Bill and Solar Inverter Checks:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Ensure there is a feed-in tariff shown on the bill as 'solar generation'.</li>
+          <li class="solar-hints-list-item">Check the inverter for error messages; it should display the power being produced.</li>
+        </ul>
+      </div>
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Solar Monitoring Features:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Modern inverters often have Wi-Fi or ethernet for remote monitoring.</li>
+          <li class="solar-hints-list-item">Monitoring services may provide apps for detailed statistics and performance alerts.</li>
+        </ul>
+      </div>
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Troubleshooting and Maintenance:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Compare system performance with nearby similar systems using community data (e.g., pvoutput.org).</li>
+          <li class="solar-hints-list-item">Regular cleaning of solar panels to remove dust, grime, or bird droppings.</li>
+          <li class="solar-hints-list-item">Be aware of shading and overheating issues that can affect performance.</li>
+        </ul>
+      </div>
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Professional Maintenance and Inspections:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Conduct site inspections and maintenance as recommended by the installer.</li>
+          <li class="solar-hints-list-item">Consider professional cleaning services and ensure inverters are not overheated.</li>
+        </ul>
+      </div>
+      <div class="solar-hints-item">
+        <span class="solar-hints-item-title">Purchase Considerations for Solar Panels:</span>
+        <ul class="solar-hints-list">
+          <li class="solar-hints-list-item">Understand different types of solar panel systems and factors influencing their efficiency.</li>
+          <li class="solar-hints-list-item">Regular professional check-ups are advised to maintain optimal performance.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="action-container">
+    <br />
+    <h2 style="color: #4a6f70"><strong>Want to know about Energy-Efficient House Tour?</strong></h2>
+    <br />
+    <h4 style="margin:auto; text-align:center; max-width: 800px; font-size: 24px;">
+        It allows you to virtually explore ways that you can save energy and money 
+        throughout your home. Even small improvements can be meaningful for home 
+        energy savings. 
+    </h4>
+    <br />
+    <br />
+    <div style="display:flex; flex-direction:column; align-items:center;">
+        <a class="action-button btn btn-primary" href="/Home/InteractiveHouse" draggable="false">
+            Start your tour now »
+        </a>
+    </div>
+    <br />
+</div>
+
+<script>
+
+let map;
+
+const colorArr = [
+  {
+    color: '#FFF7FB',
+    min: 0,
+    max: 100,
+  }, {
+    color: '#ECE7F2',
+    min: 100,
+    max: 250,
+  }, {
+    color: '#D0D1E6',
+    min: 250,
+    max: 500,
+  }, {
+    color: '#A6BDDB',
+    min: 500,
+    max: 1250,
+  }, {
+    color: '#74A9CF',
+    min: 1250,
+    max: 2500,
+  }, {
+    color: '#3690C0',
+    min: 2500,
+    max: 5000,
+  }, {
+    color: '#0570B0',
+    min: 5000,
+    max: 10000,
+  }, {
+    color: '#045A8D',
+    min: 10000,
+    max: 20000,
+  }, {
+    color: '#023858',
+    min: 20000,
+    max: Infinity,
+  }
+]
+
+async function init(params) {
+  const { Map, FeatureType } = await google.maps.importLibrary("maps");
+  const { LatLng } = await google.maps.importLibrary("core");
+  const geocoder = new google.maps.Geocoder();
+  const info = await jQuery.getJSON('/api/solar_postcodes_info.json')
+  const infoSet = info.reduce((pre, cur) => {
+    pre[cur.postcode] = cur;
+    return pre
+  }, {})
+
+  const { infoWindow, infoContent } = createInfoWindow(map);
+  const defaultZoomLevel = 13;
+
+  async function initMap() {
+    const position = new LatLng(-37.837622, 144.8991884);
+    map = new Map(document.getElementById("map"), {
+      zoom: defaultZoomLevel,
+      center: position,
+      mapId: "a41869805d7661fe",
+      mapTypeControl: false,
+      streetViewControl: false,
+      disableDoubleClickZoom: false,
+      fullscreenControlOptions: {
+        position: google.maps.ControlPosition.LEFT_TOP,
+      },
+      zoomControlOptions: {
+        position: google.maps.ControlPosition.LEFT_TOP,
+      },
+    });
+
+    const datasetId = "015ef23b-a687-4a31-a161-c7ecbef70215"
+    const datasetLayer = map.getDatasetFeatureLayer(datasetId);
+
+    datasetLayer.style = (options) => {
+      const postcode = getPostCode(options.feature)
+      const data = infoSet[postcode] || {}
+      const kw = data.capunder10 || 0
+      const option = colorArr.find(({ min, max }) => {
+        return kw >= min && kw < max
+      }) || {}
+      const fillColor = option.color
+      return {
+        strokeColor: "#1A2F3C",
+        strokeWeight: 2,
+        strokeOpacity: 1,
+        fillColor,
+        fillOpacity: 0.6,
+      };
+    };
+
+    const legend = createLegend(colorArr)
+    map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(legend.get(0));
+
+    datasetLayer.addListener('click', function name(event) {
+      console.log("datasetLayer click", event);
+        // prevent map default behavior
+      event.stop()
+      const postcode = getPostCode(event.features[0])
+      handleInfoWindow(postcode, event.latLng)
+    });
+  }
+  async function handleInfoWindow(postcode, latLng) {
+    // show info window
+    const curInfo = infoSet[postcode] || {}
+    infoContent.html(createInfoHtml(curInfo))
+    infoWindow.setPosition(latLng)
+    infoWindow.open({
+      map,
+      shouldFocus: true,
+    });
+    let name = curInfo.loc_name
+    if (!name || name.length == 0) {
+      const { results } = await geocoder.geocode({
+        location: latLng,
+        language: 'en',
+        componentRestrictions: {
+          country: 'AU',
+          postalCode: postcode
+        }
+      })
+      console.log('geoData', results);
+      if (results.length === 0) {
+        return
+      }
+      name = results[0].postcode_localities || [];
+      if (name.length == 0) {
+        name = results[0].address_components.filter(({ types }) => types.includes('locality')).map(({ long_name }) => long_name)
+      }
+      curInfo.loc_name = name
+    }
+    $('#loc_name').text(name ? ` (${name.join(' ')})` : '')
+  }
+
+  function getPostCode(feature) {
+    const { datasetAttributes } = feature || {};
+    const { POA_CODE21 } = datasetAttributes || {}
+    return POA_CODE21
+  }
+
+  function createLegend(list = []) {
+    const legend = $('<div class="map-legend"></div>');
+    const listEle = list.map(({ color, min, max }) => {
+      let text = `${min}kW`
+      if (min == 0) {
+        text = `${min}-${max}kW`
+      } else if (max == Infinity) {
+        text += `+`
+      }
+      return `<span style="color:${color};opacity:0.6;">▉</span>${text}<br>`
+    }).join('')
+    legend.html(listEle)
+    return legend
+  }
+
+  function createInfoWindow(map) {
+    const infoWindowDiv = $('<div class="info-window" id="info-window"></div>');
+    const infoContent = $('<div class="info-content">')
+    infoWindowDiv.append(infoContent);
+    const infoWindow = new google.maps.InfoWindow({
+      content: infoWindowDiv.get(0),
+      ariaLabel: "pos",
+    });
+
+    return {
+      infoWindow,
+      infoContent,
+    }
+  }
+
+  function createInfoHtml(data = {}) {
+    return `
+      <strong>${data.postcode || 0}</strong><span id="loc_name"></span><br>
+      Est. dwellings: <strong>${data.estimated_dwellings || 0}</strong><br>
+      Installations: <strong>${data.instals || 0}</strong>&nbsp;(approx. <strong>${data.density || 0}%</strong> of dwellings)<br>
+      <br>
+      PV potential on all roof types: <strong>${data.pot_sqm || 0}m<sup>2</sup></strong> (<strong>${data.pot_kw || 0} kW</strong>)<br>
+      Potential annual energy from rooftop PV: <strong>${data.pot_gwh || 0} GWh</strong><br>
+      Total installed capacity: <strong>${data.capacity || 0} kW</strong><br>
+      Under 10kW: <strong>${data.capunder10 || 0} kW</strong> (installations under 10kW: <strong>${data.countunder10 || 0}</strong>)<br>
+      10-100kW: <strong>${data.cap10_100 || 0} kW</strong> (installations: <strong>${data.count10_100 || 0}</strong>)<br>
+      Over 100kW: <strong>${data.capover100 || 0} kW</strong> (installations: <strong>${data.countover100 || 0}</strong>)<br>
+    `
+  }
+
+  initMap();
+
+  $('#search-input').on('input', (val) => {
+    console.log('input', val);
+    $('#search-button').attr('disabled', val.target.value.length == 0);
+  })
+
+  $('#search-button').on('click', async () => {
+    const postcode = $('#search-input').val()
+    console.log('postcode', postcode);
+    if (!postcode) {
+      alert('Please input postcode')
+      return
+    }
+    const { Map, FeatureType, LatLng } = google.maps
+    const geocoder = new google.maps.Geocoder();
+    const { results } = await geocoder.geocode({
+      address: postcode,
+      language: 'en',
+      componentRestrictions: {
+        country: 'AU'
+      }
+    })
+    console.log('geoData', results);
+    if (results.length === 0 || results[0].types.includes('postal_code') === false) {
+      alert('Invalid postcode')
+      return
+    }
+    const { lat, lng } = results[0].geometry.location
+    const position = new LatLng(lat(), lng());
+    if (!map) {
+      return
+    }
+    handleInfoWindow(postcode, position)
+    map.setCenter(position)
+    map.getZoom() < defaultZoomLevel && map.setZoom(defaultZoomLevel)
+  })
+}
+
+init()
+</script>

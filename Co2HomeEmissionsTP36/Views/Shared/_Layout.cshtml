@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="utf-8" />
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+     <title>Home Emissions</title>
+
+     <script src="~/js/nodeData.js"></script>
+     <script src="~/js/modelViewer.js"></script>
+
+     <script src="https://cdn.babylonjs.com/babylon.js"></script>
+     <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+     <script src="https://cdn.babylonjs.com/gui/babylon.gui.min.js"></script>
+     <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+     <link rel="shortcut icon" href="~/favicon.ico">
+     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+     <link rel="stylesheet" href="~/Co2HomeEmissionsTP36.styles.css" asp-append-version="true" />
+     <link href="~/css/StyleSheet.css" rel="stylesheet" />
+     <link rel="preload" href="/fonts/Segoe UI.woff" as="font" type="font/woff" crossorigin>
+ </head>
+
+ <body>
+ <header>
+     <div class="container-fluid text-center">
+         <!-- Navigation Section -->
+         <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="navbar-header">
+            <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand title-link">
+                <img src="/images/carbon-footprint.png" />
+                <span>Home Emissions</span>
+            </a>
+            </div>
+             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                 <span class="navbar-toggler-icon"></span>
+             </button>
+             <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                 <ul class="navbar-nav">
+                     <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "Home" && ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                     </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "ClimateAction" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="ClimateAction">Climate Action</a>
+                        </li>
+                     <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "InteractiveHouse" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="InteractiveHouse">Home Efficient Design</a>
+                     </li>
+                     <li class="nav-item">
+                            <a class="nav-link text-dark @(ViewContext.RouteData.Values["action"]?.ToString() == "GovernmentalSupport" ? "active" : "")" asp-area="" asp-controller="Home" asp-action="GovernmentalSupport">Governmental Support</a>
+                     </li>
+                     <li class="nav-item">
+                        <div class="nav-sub-menu-title">
+                            <span style="cursor: pointer;">Additional Tools</span>
+                            <div class="navbar-accordion-icon accordion-rotate"></div>
+                        </div>
+                        <div class="nav-sub-menu-container">
+                            <ul class="nav-sub-menu">
+                                 <li class="nav-sub-menu-item">
+                                     <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "Questionnaire" && ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")" asp-area="" asp-controller="Questionnaire" asp-action="Index">Grants</a>
+                                 </li>
+                                 <li class="nav-sub-menu-item">
+                                     <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "Solar" && ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")" asp-area="" asp-controller="Solar" asp-action="Index">Solar Energy</a>
+                                 </li>
+                                 <li class="nav-sub-menu-item">
+                                     <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "Recycling" && ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")" asp-area="" asp-controller="Recycling" asp-action="Index">Recycling</a>
+                                 </li>
+                                 <li class="nav-sub-menu-item">
+                                     <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "Recycling" && ViewContext.RouteData.Values["action"]?.ToString() == "Dictionary" ? "active" : "")" asp-area="" asp-controller="Recycling" asp-action="Dictionary">Recycling Dictionary</a>
+                                 </li>
+                                 <li class="nav-sub-menu-item">
+                                     <a class="nav-link text-dark @(ViewContext.RouteData.Values["controller"]?.ToString() == "CarbonCalculator" && ViewContext.RouteData.Values["action"]?.ToString() == "Index" ? "active" : "")" asp-area="" asp-controller="CarbonCalculator" asp-action="Index">Carbon Calculator</a>
+                                 </li>
+                            </ul>
+                        </div>
+                     </li>
+                 </ul>
+             </div>
+         </nav>
+     </div>
+ </header>
+
+ <!-- 2 different containers fo Homepage and for everything else -->
+ <!-- Required to do this so that banner image is spread until side ends of page -->
+    <div class="home-container">
+        <main role="main" class="pb-3" style="padding-bottom: 0 !important">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="home-container" style="background: #2e4e42; border-top: 4px solid cadetblue">
+            <div class="container" style="background: #2e4e42;">
+                <div class="row gy-4" style="justify-content:space-between; margin-top: 2%; padding-right: 0; --bs-gutter-x: 0">
+                    <div class="col-lg-3" style="align-content: center;">
+                        <h2 class="h5 lined mb-4"><strong>About</strong></h2>
+                        <p class="text-muted text-sm" style="color: white !important">
+                            Helping Victorian home owners find how the government will help them reduce their Co2 footprint, 
+                            learn how to save energy, produce green energy and educating their families about 
+                            green practices.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <h2 class="h5 lined mb-4"><strong>Quick Links</strong></h2>
+                        <div class="d-flex">
+                            <ul class="list-unstyled d-inline-block me-4 mb-0">
+                                <li class="mb-2"><a href="~/Home/ClimateAction" style="color: white;">Climate Action</a></li>
+                                <li class="mb-2"><a href="~/Home/InteractiveHouse" style="color: white;">Home Efficient Design</a></li>
+                                <li class="mb-2"><a href="~/Home/GovernmentalSupport" style="color: white;">Governmental Support</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <h2 class="h5 lined mb-4"><strong>Additional Tools</strong></h2>
+                        <div class="d-flex">
+                            <ul class="list-unstyled d-inline-block me-4 mb-0">
+                                <li class="mb-2"><a href="~/Questionnaire/Index" style="color: white;">Grants</a></li>
+                                <li class="mb-2"><a href="~/Solar/Index" style="color: white;">Solar Energy</a></li>
+                                <li class="mb-2"><a href="~/CarbonCalculator/Index" style="color: white;">Carbon Calculator</a></li>
+                            </ul>
+                            <ul class="list-unstyled d-inline-block mb-0">
+                                <li class="mb-2"><a href="~/Recycling/Index" style="color: white;">Recycling</a></li>
+                                <li class="mb-2"><a href="~/Recycling/Dictionary" style="color: white;">Recycling Dictionary</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <h2 class="h5 lined mb-4"><strong>References</strong></h2>
+                        <div class="d-flex">
+                            <ul class="list-unstyled d-inline-block me-4 mb-0">
+                                <li class="mb-2"><a href="~/Home/Reference" style="color: white;">Images & 3d Models</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyrights">
+                <div class="container text-center py-4" style="background:#2e4e42; padding: 1%; color: white">
+                    <p>© 2024 - Home Emissions</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/plotly/plotly-2.30.0.min.js" asp-append-version="true"></script>
+<script src="~/lib/bignumber.min.js" asp-append-version="true"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+<script src="~/js/plot.js" asp-append-version="true"></script>
+<script src="~/js/recycle.js" asp-append-version="true"></script>
+<script src="~/js/navbar.js" asp-append-version="true"></script>
+
+ @await RenderSectionAsync("Scripts", required: false)
+ </body>
+ </html>

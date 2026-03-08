@@ -1,0 +1,179 @@
+@{
+    ViewData["Title"] = "Carbon Calculator";
+}
+
+<div>
+    <div class="banner" style="height: 150px; margin-bottom: 5%;">
+        <div class="banner-content"> <p>Carbon Calculator</p> </div>
+    </div>
+</div>
+
+<div class="container">
+
+<form id="cb-calculator" class="questionnaire-form">
+    <div id="calculator-intro" class="question">
+        <span class="calculator-intro-subheading">Welcome</span>
+        <h2 class="calculator-form-heading">Calculate your household's carbon footprint</h2>
+        <p>Enter data about your energy usage to determine your carbon footprint</p>
+        <div class="calculator-intro-action">
+            <img src="/images/127162-392018.jpg" alt=""/>
+            <button type="button" class="btn btn-primary" id="calculator-intro-button">Get started</button>
+        </div>
+    </div>
+    <div id="calculator-main" class="question">
+        <span class="calculator-intro-subheading">Energy</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Over the past year, which forms of energy has your household used?
+        </h2>
+        <div class="form-item-desc">Select all that apply</div>
+        <div class="form-item-body">
+            <div class="form-checkbox-image-container">
+                <div class="form-checkbox-image">
+                    <div class="calculator-icon electricity-svg"></div>
+                    <input class="form-input show" type="checkbox" name="main" id="electricity" value="electricity">
+                    <span class="checkmark hide">&#10003;</span>
+                </div>
+                <span>Electricity</span>
+            </div>
+            <div class="form-checkbox-image-container">
+                <div class="form-checkbox-image">
+                    <div class="calculator-icon gas-svg"></div>
+                    <input class="form-input show" type="checkbox" name="main" id="gas" value="gas">
+                    <span class="checkmark hide">&#10003;</span>
+                </div>
+                <span>Natural Gas</span>
+            </div>
+            <div class="form-checkbox-image-container">
+                <div class="form-checkbox-image">
+                    <div class="calculator-icon lpg-svg"></div>
+                    <input class="form-input show" type="checkbox" name="main" id="lpg" value="lpg">
+                    <span class="checkmark hide">&#10003;</span>
+                </div>
+                <span>LPG</span>
+            </div>
+            <div class="form-checkbox-image-container">
+                <div class="form-checkbox-image">
+                    <div class="calculator-icon wood-svg"></div>
+                    <input class="form-input show" type="checkbox" name="main" id="firewood" value="firewood">
+                    <span class="checkmark hide">&#10003;</span>
+                </div>
+                <span>Firewood</span>
+            </div>
+        </div>
+    </div>
+    <div id="calculator-electricity" class="question sub-option">
+        <div class="notice-overlay hide">
+            <div class="notice">
+                <div class="notice-text">
+                    <h4 class="notice-title">Where can I find this?</h4>
+                    <div class="notice-body-copy">
+                        <p>
+                            Electricity consumption is measured in kilowatt-hours (kWh). 
+                            You can find this figure on your electricity bill or via 
+                            your online account with your energy provider.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <span class="calculator-intro-subheading">Energy - Electricity</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Over the past year, how much electricity has your household consumed?
+        </h2>
+        <div class="form-item-body">
+            <input class="form-input-number" name="electricity">
+            <label>kWh</label>
+            <div class="calculator-icon questionmark-svg"></div>
+            <span class="calculator-average">Use average for Victoria</span>
+        </div>
+    </div>
+    <div id="calculator-gas" class="question sub-option">
+        <div class="notice-overlay hide">
+            <div class="notice">
+                <div class="notice-text">
+                    <h4 class="notice-title">Where can I find this?</h4>
+                    <div class="notice-body-copy">
+                        <p>
+                            Natural gas is measured in megajoules (MJ). You can find this 
+                            figure on your gas bill or via your online account.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <span class="calculator-intro-subheading">Energy - Natural Gas</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Over the past year, how much natural gas has your household consumed?
+        </h2>
+        <div class="form-item-body">
+            <input class="form-input-number" name="gas">
+            <label>MJ</label>
+            <div class="calculator-icon questionmark-svg"></div>
+            <span class="calculator-average">Use average for Victoria</span>
+        </div>
+    </div>
+    <div id="calculator-lpg" class="question sub-option">
+        <div class="notice-overlay hide">
+            <div class="notice">
+                <div class="notice-text">
+                    <h4 class="notice-title">Where can I find this?</h4>
+                    <div class="notice-body-copy">
+                        <p>
+                            LPG consumption is measured in kilograms (kg). For outdoor cooking, 
+                            the size (in kg) is printed on the side of the LPG bottle. Bottles 
+                            are generally 4kg or 9kg.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <span class="calculator-intro-subheading">Energy - LPG</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Over the past year, how much LPG has your household consumed?
+        </h2>
+        <div class="form-item-body">
+            <input class="form-input-number" name="lpg">
+            <label>kg</label>
+            <div class="calculator-icon questionmark-svg"></div>
+        </div>
+    </div>
+    <div id="calculator-firewood" class="question sub-option">
+        <span class="calculator-intro-subheading">Energy - Firewood</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Over the past year, how much firewood has your household consumed?
+        </h2>
+        <div class="form-item-body">
+            <input class="form-input-number" name="firewood">
+            <label>kg</label>
+        </div>
+    </div>
+    <div id="calculator-result" class="question">
+        <span class="calculator-intro-subheading">Calculator - Results</span>
+        <h2 class="form-item-title calculator-form-heading">
+            Your household's carbon footprint for the past year is
+        </h2>
+        <div class="calculator-result-container">
+            <div class="calculator-result">
+                <span class="calculator-result-top"><b id="calculator-result-num"></b> tonnes</span>
+                <span>of carbon dioxide equivalent (tCO2e).</span>
+            </div>
+        </div>
+        <div>
+            <p>The average Australian household has an annual carbon footprint of approximately 15-20 tCO2e.</p>
+            <p>According to the UN, to limit global warming to 1.5 degrees by 2050 we must limit our per-person emissions to 2 tCO2e per year.</p>
+            <p>Now that you know your number, you can reduce your emissions with the insights below：</p>
+        </div>
+    </div>
+    <div class="form-buttons">
+        <button type="button" class="btn btn-primary reset-btn" style="display:none;">Reset</button>
+        <button type="button" class="btn btn-primary next-btn" disabled style="display:none;">Next</button>
+        <button type="button" class="btn btn-primary submit-btn" disabled style="display:none;">Submit</button>
+    </div>
+</form>
+
+<br />
+<br />
+
+</div>
+
+<partial name="Insights" />
