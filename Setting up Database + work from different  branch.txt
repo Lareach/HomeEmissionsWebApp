@@ -16,3 +16,8 @@
 
 4. **Merge changes to main branch**:
    Visit the Pull requests tab in the the GitHub repository in a web browser and create a new pull request.
+
+------------------------------
+Also in Visual Studio Community, download
+.NET 8.0 Runtime
+.NET 9.0 Runtime

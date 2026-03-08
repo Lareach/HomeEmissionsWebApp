@@ -12,10 +12,10 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 var app = builder.Build();
 
-using(var scope = app.Services.CreateScope())
-{
-	SeedData.Initialize(scope.ServiceProvider);
-}
+//using(var scope = app.Services.CreateScope())
+//{
+//	SeedData.Initialize(scope.ServiceProvider);
+//}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
